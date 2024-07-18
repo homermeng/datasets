@@ -1,0 +1,2313 @@
+In the Conditions of Contract (“these Conditions”), which include Particular
+Conditions, Parts A and B, and these General Conditions, the following words andexpressions shall have the meanings stated. Words indicating persons or partiesinclude corporations and other legal entities, except where the context requiresotherwise.
+## 1 1.1.1 “ Contract ” means the Contract Agreement, the Letter of Acceptance, the
+Letter of Tender, these Conditions, the Specification, the Drawings, theSchedules, and the further documents (if any) which are listed in theContract Agreement or in the Letter of Acceptance.
+## 1 1.1.2 “ Contract Agreement ” means the contract agreement (if any) referred to in
+Sub-Clause 1.6 [ Contract Agreement ].
+## 1 1.1.3 “ Letter of Acceptance ” means the letter of formal acceptance, signed by
+the Employer, of the Letter of Tender, including any annexed memorandacomprising agreements between and signed by both Parties. If there is nosuch letter of acceptance, the expression “Letter of Acceptance” means theContract Agreement and the date of issuing or receiving the Letter ofAcceptance means the date of signing the Contract Agreement.
+## 1 1.1.4 “ Letter of Tender ” means the document entitled letter of tender or letter of
+bid, which was completed by the Contractor and includes the signed offerto the Employer for the Works.
+## 1 1.1.5 “ Specification ” means the document entitled specification, as included in
+the Contract, and any additions and modifications to the specification inaccordance with the Contract. Such document specifies the Works.
+## 1 1.1.6 “ Drawings ” means the drawings of the Works, as included in the Contract,
+and any additional and modified drawings issued by (or on behalf of) theEmployer in accordance with the Contract.
+## 1 1.1.7 “ Schedules ” means the document(s) entitled schedules, completed by the
+Contractor and submitted with the Letter of Tender, as included in theContract. Such document may include the Bill of Quantities, data, lists, andschedules of rates and/or prices.
+## 1 1.1.8 “ Tender ” means the Letter of Tender and all other documents which the
+Contractor submitted with the Letter of Tender, as included in the Contract.
+## 1 1.1.9 “ Bill of Quantities ” and “ Daywork Schedule ” and “ Schedule of Payment
+Currencies ” mean the documents so named (if any) which are comprised
+in the Schedules.
+## 1 1.1.10 “ Contract Data ” means the pages completed by the Employer entitled
+contract data which constitute Part A of the Particular Conditions.1.1
+Definitions
+## 1 1.1
+The Contract
+## 1 General ProvisionsGeneral Conditions
+## 2 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+## 1 1.2.1 “ Party ” means the Employer or the Contractor, as the context requires.
+## 1 1.2.2 “ Employer ” means the person named as employer in the Contract Data
+and the legal successors in title to this person.
+## 1 1.2.3 “ Contractor ” means the person(s) named as contractor in the Letter of
+Tender accepted by the Employer and the legal successors in title to thisperson(s).
+## 1 1.2.4 “ Enginee r” means the person appointed by the Employer to act as the
+Engineer for the purposes of the Contract and named in the Contract Data,or other person appointed from time to time by the Employer and notified tothe Contractor under Sub-Clause 3.4 [ Replacement of the Engineer ].
+## 1 1.2.5 “ Contractor’s Representative ” means the person named by the
+Contractor in the Contract or appointed from time to time by the Contractorunder Sub-Clause 4.3 [ Contractor’s Representative ], who acts on behalf of
+the Contractor.
+## 1 1.2.6 “ Employer’s Personnel ” means the Engineer, the assistants referred to in
+Sub-Clause 3.2 [ Delegation by the Engineer ] and all other staff, labour and
+other employees of the Engineer and of the Employer; and any otherpersonnel notified to the Contractor, by the Employer or the Engineer, asEmployer’s Personnel.
+## 1 1.2.7 “ Contractor’s Personnel ” means the Contractor’s Representative and all
+personnel whom the Contractor utilises on Site, who may include the staff,labour and other employees of the Contractor and of each Subcontractor; andany other personnel assisting the Contractor in the execution of the Works.
+## 1 1.2.8 “ Subcontractor ” means any person named in the Contract as a
+subcontractor, or any person appointed as a subcontractor, for a part of theWorks; and the legal successors in title to each of these persons.
+## 1 1.2.9 “ DB” means the person or three persons appointed under Sub-Clause 20.2
+[Appointment of the Dispute Board ] or Sub-Clause 20.3 [ Failure to Agree
+on the Composition of the Dispute Board ].
+## 1 1.2.10 “ FIDIC ” means the Fédération Internationale des Ingénieurs-Conseils, the
+international federation of consulting engineers.
+## 1 1.2.11 “ Bank ” means the financing institution (if any) named in the Contract Data.
+## 1 1.2.12 “ Borrower ” means the person (if any) named as the borrower in the
+Contract Data.
+## 1 1.3.1 “ Base Date ” means the date 28 days prior to the latest date for submission
+and Completion of the Tender.
+## 1 1.3.2 “ Commencement Date ” means the date notified under Sub-Clause 8.1
+[Commencement of Works ].
+## 1 1.3.3 “ Time for Completion ” means the time for completing the Works or a Section
+(as the case may be) under Sub-Clause 8.2 [ Time for Completion ], as stated
+in the Contract Data (with any extension under Sub-Clause 8.4 [ Extension of
+Time for Completion ]), calculated from the Commencement Date.1.1.2
+Parties and Persons
+## 1 1.3
+Dates, Tests, Periodsand Completion
+## 1 1.3.4 “ Tests on Completion ” means the tests which are specified in the Contract
+or agreed by both Parties or instructed as a Variation, and which are carriedout under Clause 9 [ Tests on Completion ] before the Works or a Section (as
+the case may be) are taken over by the Employer.
+## 1 1.3.5 “ Taking-Over Certificate ” means a certificate issued under Clause 10
+[Employer’s Taking Ove r].
+## 1 1.3.6 “ Tests after Completion ” means the tests (if any) which are specified in the
+Contract and which are carried out in accordance with the Specificationafter the Works or a Section (as the case may be) are taken over by theEmployer.
+## 1 1.3.7 “ Defects Notification Period” means the period for notifying defects in the
+Works or a Section (as the case may be) under Sub-Clause 11.1[Completion of Outstanding Work and Remedying Defects ], as stated in the
+Contract Data (with any extension under Sub-Clause 11.3 [ Extension of
+Defects Notification Period ]), calculated from the date on which the Works
+or Section is completed as certified under Sub-Clause 10.1 [ Taking Over of
+the Works and Sections ].
+## 1 1.3.8 “ Performance Certificate ” means the certificate issued under Sub-Clause
+## 11 9 [ Performance Certificate ].
+## 1 1.3.9 “ day” means a calendar day and “year” means 365 days.
+## 1 1.4.1 “ Accepted Contract Amount ” means the amount accepted in the Letter of
+Acceptance for the execution and completion of the Works and theremedying of any defects.
+## 1 1.4.2 “ Contract Price ” means the price defined in Sub-Clause 14.1 [ The
+Contract Price ], and includes adjustments in accordance with the Contract.
+## 1 1.4.3 “ Cost ” means all expenditure reasonably incurred (or to be incurred) by the
+Contractor, whether on or off the Site, including overhead and similarcharges, but does not include profit.
+## 1 1.4.4 “ Final Payment Certificate ” means the payment certificate issued under
+Sub-Clause 14.13 [ Issue of Final Payment Certificate ].
+## 1 1.4.5 “ Final Statement ” means the statement defined in Sub-Clause 14.11
+[Application for Final Payment Certificate ].
+## 1 1.4.6 “ Foreign Currency ” means a currency in which part (or all) of the Contract
+Price is payable, but not the Local Currency.
+## 1 1.4.7 “ Interim Payment Certificate ” means a payment certificate issued under
+Clause 14 [ Contract Price and Payment ], other than the Final Payment
+Certificate.
+## 1 1.4.8 “ Local Currency ” means the currency of the Country.
+## 1 1.4.9 “ Payment Certificate ” means a payment certificate issued under Clause 14
+[Contract Price and Payment ].
+## 1 1.4.10 “ Provisional Sum ” means a sum (if any) which is specified in the Contract as1.1.4
+Money and Payments
+## 4 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+a provisional sum, for the execution of any part of the Works or for the supply
+of Plant, Materials or services under Sub-Clause 13.5 [ Provisional Sums ].
+## 1 1.4.11 “ Retention Money ” means the accumulated retention moneys which the
+Employer retains under Sub-Clause 14.3 [ Application for Interim Payment
+Certificates ] and pays under Sub-Clause 14.9 [ Payment of Retention Money ].
+## 1 1.4.12 “ Statement ” means a statement submitted by the Contractor as part of an
+application, under Clause 14 [ Contract Price and Payment ], for a payment
+certificate.
+## 1 1.5.1 “ Contractor’s Equipment ” means all apparatus, machinery, vehicles and
+other things required for the execution and completion of the Works and theremedying of any defects. However, Contractor’s Equipment excludesTemporary Works, Employer’s Equipment (if any), Plant, Materials and anyother things intended to form or forming part of the Permanent Works.
+## 1 1.5.2 “ Goods ” means Contractor’s Equipment, Materials, Plant and Temporary
+Works, or any of them as appropriate.
+## 1 1.5.3 “ Materials ” means things of all kinds (other than Plant) intended to form or
+forming part of the Permanent Works, including the supply-only materials (ifany) to be supplied by the Contractor under the Contract.
+## 1 1.5.4 “ Permanent Works ” means the permanent works to be executed by the
+Contractor under the Contract.
+## 1 1.5.5 “ Plant ” means the apparatus, machinery and vehicles intended to form or
+forming part of the Permanent Works.
+## 1 1.5.6 “ Section ” means a part of the Works specified in the Contract Data as a
+Section (if any).
+## 1 1.5.7 “ Temporary Works ” means all temporary works of every kind (other than
+Contractor’s Equipment) required on Site for the execution and completionof the Permanent Works and the remedying of any defects.
+## 1 1.5.8 “ Works ” mean the Permanent Works and the Temporary Works, or either of
+them as appropriate.
+## 1 1.6.1 “ Contractor’s Documents ” means the calculations, computer programs
+and other software, drawings, manuals, models and other documents of atechnical nature (if any) supplied by the Contractor under the Contract.
+## 1 1.6.2 “ Country ” means the country in which the Site (or most of it) is located,
+where the Permanent Works are to be executed.
+## 1 1.6.3 “ Employer’s Equipment ” means the apparatus, machinery and vehicles (if
+any) made available by the Employer for the use of the Contractor in theexecution of the Works, as stated in the Specification; but does not includePlant which has not been taken over by the Employer.
+## 1 1.6.4 “ Force Majeure ” is defined in Clause 19 [ Force Majeure ].
+## 1 1.6.5 “ Laws ” means all national (or state) legislation, statutes, ordinances and other
+laws, and regulations and by-laws of any legally constituted public authority.1.1.5
+Works and Goods
+## 1 1.6
+Other Definitions
+## 1 1.6.6 “ Performance Security ” means the security (or securities, if any) under
+Sub-Clause 4.2 [ Performance Security ].
+## 1 1.6.7 “ Site” means the places where the Permanent Works are to be executed
+and to which Plant and Materials are to be delivered, and any other placesas may be specified in the Contract as forming part of the Site.
+## 1 1.6.8 “ Unforeseeable ” means not reasonably foreseeable and against which
+adequate preventive precautions could not reasonably be taken by anexperienced contractor by the date for submission of the Tender.
+## 1 1.6.9 “ Variation ” means any change to the Works, which is instructed or
+approved as a variation under Clause 13 [ Variations and Adjustments ].
+In the Contract, except where the context requires otherwise:
+(a) words indicating one gender include all genders;
+(b) words indicating the singular also include the plural and words indicating the
+plural also include the singular;
+(c) provisions including the word “agree”, “agreed” or “agreement” require the
+agreement to be record in writing;
+(d) “written” or “in writing” means hand-written, type-written, printed or
+electronically made, and resulting in a permanent record; and
+(e) the word “tender” is synonymous with “bid”, and “tenderer” with “bidder” and
+the words “tender documents” with “bidding documents".
+The marginal words and other headings shall not be taken into consideration in the
+interpretation of these Conditions.
+In these Conditions, provisions including the expression “Cost plus profit” require this
+profit to be one twentieth (5%) of this Cost unless otherwise indicated in the ContractData.
+Wherever these Conditions provide for the giving or issuing of approvals, certificates,
+consents, determinations, notices, requests and discharges, these communicationsshall be:
+(a) in writing and delivered by hand (against receipt), sent by mail or courier, or
+transmitted using any of the agreed systems of electronic transmission asstated in the Contract Data; and
+(b) delivered, sent or transmitted to the address for the recipient’s communications
+as stated in the Contract Data. However:
+(i) if the recipient gives notice of another address, communications shall
+thereafter be delivered accordingly; and
+(ii) if the recipient has not stated otherwise when requesting an approval or
+consent, it may be sent to the address from which the request wasissued.
+Approvals, certificates, consents and determinations shall not be unreasonably
+withheld or delayed. When a certificate is issued to a Party, the certifier shall send acopy to the other Party. When a notice is issued to a Party, by the other Party or theEngineer, a copy shall be sent to the Engineer or the other Party, as the case maybe.1.2
+Interpretation
+## 1 3Communications
+## 6 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+The Contract shall be governed by the law of the country or other jurisdiction stated
+in the Contract Data. 
+The ruling language of the Contract shall be that stated in the Contract Data.The language for communications shall be that stated in the Contract Data. If no
+language is stated there, the language for communications shall be the rulinglanguage of the Contract.
+The documents forming the Contract are to be taken as mutually explanatory of one
+another. For the purposes of interpretation, the priority of the documents shall be inaccordance with the following sequence:
+(a) the Contract Agreement (if any),
+(b) the Letter of Acceptance,(c) the Letter of Tender,(d) the Particular Conditions - Part A,(e) the Particular Conditions - Part B,(f) these General Conditions,(g) the Specification,(h) the Drawings, and(i) the Schedules and any other documents forming part of the Contract.
+If an ambiguity or discrepancy is found in the documents, the Engineer shall issue any
+necessary clarification or instruction.
+The Parties shall enter into a Contract Agreement within 28 days after the Contractor
+receives the Letter of Acceptance, unless they agree otherwise. The ContractAgreement shall be based upon the form annexed to the Particular Conditions. Thecosts of stamp duties and similar charges (if any) imposed by law in connection withentry into the Contract Agreement shall be borne by the Employer.
+Neither Party shall assign the whole or any part of the Contract or any benefit or
+interest in or under the Contract. However, either Party:
+(a) may assign the whole or any part with the prior agreement of the other Party,
+at the sole discretion of such other Party, and
+(b) may, as security in favour of a bank or financial institution, assign its right to any
+moneys due, or to become due, under the Contract.
+The Specification and Drawings shall be in the custody and care of the Employer.
+Unless otherwise stated in the Contract, two copies of the Contract and of eachsubsequent Drawing shall be supplied to the Contractor, who may make or requestfurther copies at the cost of the Contractor.
+Each of the Contractor’s Documents shall be in the custody and care of the
+Contractor, unless and until taken over by the Employer. Unless otherwise stated inthe Contract, the Contractor shall supply to the Engineer six copies of each of theContractor’s Documents.
+The Contractor shall keep, on the Site, a copy of the Contract, publications named in
+the Specification, the Contractor’s Documents (if any), the Drawings and Variations1.4
+Law and Language
+## 1 5
+Priority of Documents
+## 1 6Contract Agreement
+## 1 7Assignment
+## 1 8Care and Supply of
+Documents
+and other communications given under the Contract. The Employer’s Personnel shall
+have the right of access to all these documents at all reasonable times.
+If a Party becomes aware of an error or defect in a document which was prepared for
+use in executing the Works, the Party shall promptly give notice to the other Party ofsuch error or defect.
+The Contractor shall give notice to the Engineer whenever the Works are likely to be
+delayed or disrupted if any necessary drawing or instruction is not issued to theContractor within a particular time, which shall be reasonable. The notice shall includedetails of the necessary drawing or instruction, details of why and by when it shouldbe issued, and details of the nature and amount of the delay or disruption likely to besuffered if it is late.
+If the Contractor suffers delay and/or incurs Cost as a result of a failure of the Engineer to
+issue the notified drawing or instruction within a time which is reasonable and is specifiedin the notice with supporting details, the Contractor shall give a further notice to theEngineer and shall be entitled subject to Sub-Clause 20.1 [ Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and 
+(b) payment of any such Cost plus profit, which shall be included in the Contract
+Price.
+After receiving this further notice, the Engineer shall proceed in accordance with Sub-
+Clause 3.5 [ Determinations ] to agree or determine these matters.
+However, if and to the extent that the Engineer’s failure was caused by any error or
+delay by the Contractor, including an error in, or delay in the submission of, any of theContractor’s Documents, the Contractor shall not be entitled to such extension oftime, Cost or profit.
+As between the Parties, the Contractor shall retain the copyright and other intellectual
+property rights in the Contractor’s Documents and other design documents made by(or on behalf of) the Contractor.
+The Contractor shall be deemed (by signing the Contract) to give to the Employer a
+non-terminable transferable non-exclusive royalty-free licence to copy, use andcommunicate the Contractor’s Documents, including making and using modificationsof them. This licence shall:
+(a) apply throughout the actual or intended working life (whichever is longer) of the
+relevant parts of the Works,
+(b) entitle any person in proper possession of the relevant part of the Works to
+copy, use and communicate the Contractor’s Documents for the purposes ofcompleting, operating, maintaining, altering, adjusting, repairing anddemolishing the Works, and
+(c) in the case of Contractor’s Documents which are in the form of computer
+programs and other software, permit their use on any computer on the Site andother places as envisaged by the Contract, including replacements of anycomputers supplied by the Contractor.
+The Contractor’s Documents and other design documents made by (or on behalf of)
+the Contractor shall not, without the Contractor’s consent, be used, copied or1.9
+Delayed Drawings or 
+Instructions
+## 1 10
+Employer’s Use of
+Contractor’s Documents
+## 8 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+communicated to a third party by (or on behalf of) the Employer for purposes other
+than those permitted under this Sub-Clause.
+As between the Parties, the Employer shall retain the copyright and other intellectual
+property rights in the Specification, the Drawings and other documents made by (oron behalf of) the Employer. The Contractor may, at his cost, copy, use, and obtaincommunication of these documents for the purposes of the Contract. They shall not,without the Employer’s consent, be copied, used or communicated to a third party bythe Contractor, except as necessary for the purposes of the Contract.
+The Contractor shall disclose all such confidential and other information as the Engineer
+may reasonably require in order to verify the Contractor’s compliance with the Contract.
+The Contractor shall treat the details of the Contract as private and confidential,
+except to the extent necessary to carry out the Contractor’s obligations under theContract or to comply with applicable Laws. The Contractor shall not publish ordisclose any particulars of the Works without the previous agreement of the Employer.However, the Contractor shall be permitted to disclose any publicly availableinformation, or information otherwise required to establish his qualifications tocompete for other projects.
+The Contractor shall, in performing the Contract, comply with applicable Laws. Unless
+otherwise stated in the Particular Conditions:
+(a) the Employer shall have obtained (or shall obtain) the planning, zoning or similar
+permission for the Permanent Works, and any other permissions described inthe Specification as having been (or being) obtained by the Employer; and theEmployer shall indemnify and hold the Contractor harmless against and fromthe consequences of any failure to do so; and
+(b) the Contractor shall give all notices, pay all taxes, duties and fees, and obtain
+all permits, licences and approvals, as required by the Laws in relation to theexecution and completion of the Works and the remedying of any defects; andthe Contractor shall indemnify and hold the Employer harmless against andfrom the consequences of any failure to do so.
+If the Contractor constitutes (under applicable Laws) a joint venture, consortium or
+other unincorporated grouping of two or more persons:
+(a) these persons shall be deemed to be jointly and severally liable to the Employer
+for the performance of the Contract;
+(b) these persons shall notify the Employer of their leader who shall have authority
+to bind the Contractor and each of these persons; and
+(c) the Contractor shall not alter its composition or legal status without the prior
+consent of the Employer.
+The Contractor shall permit the Bank and/or persons appointed by the Bank to
+inspect the Site and/or the Contractor's accounts and records relating to theperformance of the Contract and to have such accounts and records audited byauditors appointed by the Bank if required by the Bank.1.11
+Contractor’s Use of 
+Employer’s Documents
+## 1 12
+Confidential Details
+## 1 13Compliance with Laws
+## 1 14Joint and Several
+Liability
+## 1 15
+Inspections and Audit
+by the Bank
+The Employer shall give the Contractor right of access to, and possession of, all parts
+of the Site within the time (or times) stated in the Contract Data. The right andpossession may not be exclusive to the Contractor. If, under the Contract, theEmployer is required to give (to the Contractor) possession of any foundation,structure, plant or means of access, the Employer shall do so in the time and mannerstated in the Specification. However, the Employer may withhold any such right orpossession until the Performance Security has been received.
+If no such time is stated in the Contract Data, the Employer shall give the Contractor
+right of access to, and possession of, the Site within such times as may be requiredto enable the Contractor to proceed in accordance with the programme submittedunder Sub-Clause 8.3 [ Programme ].
+If the Contractor suffers delay and/or incurs Cost as a result of a failure by the Employer
+to give any such right or possession within such time, the Contractor shall give notice tothe Engineer and shall be entitled subject to Sub-Clause 20.1 [ Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) payment of any such Cost plus profit, which shall be included in the Contract Price.
+After receiving this notice, the Engineer shall proceed in accordance with Sub-Clause
+## 3 5 [Determinations ] to agree or determine these matters.
+However, if and to the extent that the Employer’s failure was caused by any error or
+delay by the Contractor, including an error in, or delay in the submission of, any of theContractor’s Documents, the Contractor shall not be entitled to such extension oftime, Cost or profit.
+The Employer shall (where he is in a position to do so) provide reasonable assistance
+to the Contractor at the request of the Contractor:
+(a) by obtaining copies of the Laws of the Country which are relevant to the
+Contract but are not readily available, and
+(b) for the Contractor’s applications for any permits, licences or approvals required
+by the Laws of the Country:
+(i) which the Contractor is required to obtain under Sub-Clause 1.13
+[Compliance with Laws ],
+(ii) for the delivery of Goods, including clearance through customs, and(iii) for the export of Contractor’s Equipment when it is removed from the Site.
+The Employer shall be responsible for ensuring that the Employer’s Personnel and the
+Employer’s other contractors on the Site:
+(a) co-operate with the Contractor’s efforts under Sub-Clause 4.6 [ Co-operation ], and
+(b) take actions similar to those which the Contractor is required to take under sub-
+paragraphs (a), (b) and (c) of Sub-Clause 4.8 [ Safety Procedures ] and under
+Sub-Clause 4.18 [ Protection of the Environment ].2.1
+Right of Access tothe Site
+## 2 2
+Permits, Licences or 
+Approvals
+## 2 3
+Employer’s Personnel2The Employer
+## 10 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+The Employer shall submit, within 28 days after receiving any request from the
+Contractor, reasonable evidence that financial arrangements have been made and arebeing maintained which will enable the Employer to pay the Contract Price (asestimated at that time) in accordance with Clause 14 [ Contract Price and Payment ].
+Before the Employer makes any material change to his financial arrangements, theEmployer shall give notice to the Contractor with detailed particulars.
+In addition, if the Bank has notified to the Borrower that the Bank has suspended
+disbursements under its loan, which finances in whole or in part the execution of theWorks, the Employer shall give notice of such suspension to the Contractor withdetailed particulars, including the date of such notification, with a copy to the Engineer,within 7 days of the Borrower having received the suspension notification from theBank. If alternative funds will be available in appropriate currencies to the Employer tocontinue making payments to the Contractor beyond a date 60 days after the date ofBank notification of the suspension, the Employer shall provide reasonable evidencein such notice of the extent to which such funds will be available.
+If the Employer considers himself to be entitled to any payment under any Clause of
+these Conditions or otherwise in connection with the Contract, and/or to any extensionof the Defects Notification Period, the Employer or the Engineer shall give notice andparticulars to the Contractor. However, notice is not required for payments due underSub-Clause 4.19 [ Electricity, Water and Gas ], under Sub-Clause 4.20 [ Employer’s
+Equipment and Free-Issue Material ], or for other services requested by the Contractor.
+The notice shall be given as soon as practicable after the Employer became aware, or
+should have become aware, of the event or circumstances giving rise to the claim. Anotice relating to any extension of the Defects Notification Period shall be given beforethe expiry of such period.
+The particulars shall specify the Clause or other basis of the claim, and shall include
+substantiation of the amount and/or extension to which the Employer considershimself to be entitled in connection with the Contract. The Engineer shall then proceedin accordance with Sub-Clause 3.5 [ Determinations ] to agree or determine  (i) the
+amount (if any) which the Employer is entitled to be paid by the Contractor, and/or (ii)the extension (if any) of the Defects Notification Period in accordance with Sub-Clause11.3 [ Extension of Defects Notification Period ].
+This amount may be included as a deduction in the Contract Price and Payment
+Certificates. The Employer shall only be entitled to set off against or make anydeduction from an amount certified in a Payment Certificate, or to otherwise claimagainst the Contractor, in accordance with this Sub-Clause.
+The Employer shall appoint the Engineer who shall carry out the duties assigned tohim in the Contract. The Engineer’s staff shall include suitably qualified engineers andother professionals who are competent to carry out these duties.
+The Engineer shall have no authority to amend the Contract.The Engineer may exercise the authority attributable to the Engineer as specified in or
+necessarily to be implied from the Contract. If the Engineer is required to obtain the2.4
+Employer’s Financial Arrangements
+## 2 5
+Employer’s Claims
+## 3 1
+Engineer’s Duties and Authority3The Engineer
+## 3 2
+Delegation by the 
+Engineerapproval of the Employer before exercising a specified authority, the requirements shall
+be as stated in the Particular Conditions. The Employer shall promptly inform theContractor of any change to the authority attributed to the Engineer.
+However, whenever the Engineer exercises a specified authority for which the
+Employer’s approval is required, then (for the purposes of the Contract) the Employershall be deemed to have given approval.
+Except as otherwise stated in these Conditions:(a) whenever carrying out duties or exercising authority, specified in or implied by
+the Contract, the Engineer shall be deemed to act for the Employer;
+(b) the Engineer has no authority to relieve either Party of any duties, obligations or
+responsibilities under the Contract; and
+(c) any approval, check, certificate, consent, examination, inspection, instruction,
+notice, proposal, request, test, or similar act by the Engineer (including absenceof disapproval) shall not relieve the Contractor from any responsibility he hasunder the Contract, including responsibility for errors, omissions, discrepanciesand non-compliances.
+The following provisions shall apply:The Engineer shall obtain the specific approval of the Employer before taking action
+under the following Sub-Clauses of these Conditions:
+(a) Sub-Clause 4.12: Agreeing or determining an extension of time and/or
+additional cost.
+(b) Sub-Clause 13.1: Instructing a Variation, except;
+(i) in an emergency situation as determined by the Engineer, or
+(ii) if such a Variation would increase the Accepted Contract Amount by less
+than the percentage specified in the Contract Data.
+(c) Sub-Clause 13.3: Approving a proposal for Variation submitted by the
+Contractor in accordance with Sub Clause 13.1 or 13.2..
+(d) Sub-Clause 13.4: Specifying the amount payable in each of the applicable
+currencies.
+(e) Notwithstanding the obligation, as set out above, to obtain approval, if, in the
+opinion of the Engineer, an emergency occurs affecting the safety of life or ofthe Works or of adjoining property, he may, without relieving the Contractorof any of his duties and responsibility under the Contract, instruct theContractor to execute all such work or to do all such things as may, in theopinion of the Engineer, be necessary to abate or reduce the risk. TheContractor shall forthwith comply, despite the absence of approval of theEmployer, with any such instruction of the Engineer. The Engineer shalldetermine an addition to the Contract Price, in respect of such instruction, inaccordance with Clause 13 and shall notify the Contractor accordingly, witha copy to the Employer.
+The Engineer may from time to time assign duties and delegate authority to assistants,
+and may also revoke such assignment or delegation. These assistants may include aresident engineer, and/or independent inspectors appointed to inspect and/or testitems of Plant and/or Materials. The assignment, delegation or revocation shall be inwriting and shall not take effect until copies have been received by both Parties.However, unless otherwise agreed by both Parties, the Engineer shall not delegate the
+## 12 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+authority to determine any matter in accordance with Sub-Clause 3.5 [ Determinations ].
+Assistants shall be suitably qualified persons, who are competent to carry out these
+duties and exercise this authority, and who are fluent in the language forcommunications defined in Sub-Clause 1.4 [ Law and Language ].
+Each assistant, to whom duties have been assigned or authority has been delegated,
+shall only be authorised to issue instructions to the Contractor to the extent definedby the delegation. Any approval, check, certificate, consent, examination, inspection,instruction, notice, proposal, request, test, or similar act by an assistant, inaccordance with the delegation, shall have the same effect as though the act hadbeen an act of the Engineer. However:
+(a) any failure to disapprove any work, Plant or Materials shall not constitute
+approval, and shall therefore not prejudice the right of the Engineer to reject thework, Plant or Materials; 
+(b) if the Contractor questions any determination or instruction of an assistant, the
+Contractor may refer the matter to the Engineer, who shall promptly confirm,reverse or vary the determination or instruction.
+The Engineer may issue to the Contractor (at any time) instructions and additional or
+modified Drawings which may be necessary for the execution of the Works and theremedying of any defects, all in accordance with the Contract. The Contractor shallonly take instructions from the Engineer, or from an assistant to whom the appropriateauthority has been delegated under this Clause. If an instruction constitutes aVariation, Clause 13 [ Variations and Adjustments ] shall apply.
+The Contractor shall comply with the instructions given by the Engineer or delegated
+assistant, on any matter related to the Contract. Whenever practicable, theirinstructions shall be given in writing. If the Engineer or a delegated assistant:
+(a) gives an oral instruction,
+(b) receives a written confirmation of the instruction, from (or on behalf of) the
+Contractor, within two working days after giving the instruction, and
+(c) does not reply by issuing a written rejection and/or instruction within two
+working days after receiving the confirmation,
+then the confirmation shall constitute the written instruction of the Engineer or
+delegated assistant (as the case may be).
+Notwithstanding Sub-Clause 3.1, if the Employer intends to replace the Engineer, the
+Employer shall, not less than 21 days before the intended date of replacement, givenotice to the Contractor of the name, address and relevant experience of the intendedreplacement Engineer. If the Contractor considers the intended replacement Engineerto be unsuitable, he has the right to raise reasonable objection against him by noticeto the Employer, with supporting particulars, and the Employer shall give full and fairconsideration to this objection.
+Whenever these Conditions provide that the Engineer shall proceed in accordance
+with this Sub-Clause 3.5 to agree or determine any matter, the Engineer shall consultwith each Party in an endeavour to reach agreement. If agreement is not achieved, theEngineer shall make a fair determination in accordance with the Contract, taking dueregard of all relevant circumstances.3.3
+Instructions of the
+Engineer
+## 3 4
+Replacement of the 
+Engineer
+## 3 5
+Determinations
+The Engineer shall give notice to both Parties of each agreement or determination,
+with supporting particulars. Each Party shall give effect to each agreement ordetermination unless and until revised under Clause 20 [ Claims, Disputes and
+Arbitration ].
+The Contractor shall design (to the extent specified in the Contract), execute and
+complete the Works in accordance with the Contract and with the Engineer’sinstructions, and shall remedy any defects in the Works.
+The Contractor shall provide the Plant and Contractor’s Documents specified in the
+Contract, and all Contractor’s Personnel, Goods, consumables and other things andservices, whether of a temporary or permanent nature, required in and for this design,execution, completion and remedying of defects.
+All equipment, material, and services to be incorporated in or required for the Works
+shall have their origin in any eligible source country as defined by the Bank.
+The Contractor shall be responsible for the adequacy, stability and safety of all Site
+operations and of all methods of construction. Except to the extent specified in theContract, the Contractor (i) shall be responsible for all Contractor’s Documents,Temporary Works, and such design of each item of Plant and Materials as is requiredfor the item to be in accordance with the Contract, and (ii) shall not otherwise beresponsible for the design or specification of the Permanent Works.
+The Contractor shall, whenever required by the Engineer, submit details of the
+arrangements and methods which the Contractor proposes to adopt for the executionof the Works. No significant alteration to these arrangements and methods shall bemade without this having previously been notified to the Engineer.
+If the Contract specifies that the Contractor shall design any part of the Permanent
+Works, then unless otherwise stated in the Particular Conditions:
+(a) the Contractor shall submit to the Engineer the Contractor’s Documents for this
+part in accordance with the procedures specified in the Contract;
+(b) these Contractor’s Documents shall be in accordance with the Specification
+and Drawings, shall be written in the language for communications defined inSub-Clause 1.4 [ Law and Language ], and shall include additional information
+required by the Engineer to add to the Drawings for co-ordination of eachParty’s designs;
+(c) the Contractor shall be responsible for this part and it shall, when the Works are
+completed, be fit for such purposes for which the part is intended as arespecified in the Contract; and 
+(d) prior to the commencement of the Tests on Completion, the Contractor shall
+submit to the Engineer the “as-built” documents and operation andmaintenance manuals in accordance with the Specification and in sufficientdetail for the Employer to operate, maintain, dismantle, reassemble, adjust andrepair this part of the Works. Such part shall not be considered to be completedfor the purposes of taking-over under Sub-Clause 10.1 [ Taking Over of the
+Works and Section s] until these documents and manuals have been submitted
+to the Engineer.4.1
+Contractor’s General Obligations
+## 4 The Contractor
+## 14 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+The Contractor shall obtain (at his cost) a Performance Security for proper
+performance, in the form, amount and currencies stated in the Contract Data. If anamount is not stated in the Contract Data, this Sub-Clause shall not apply.
+The Contractor shall deliver the Performance Security to the Employer within 28 days
+after receiving the Letter of Acceptance, and shall send a copy to the Engineer. ThePerformance Security shall be issued by an entity and from within a country (or otherjurisdiction) approved by the Employer, and shall be in the form annexed to theParticular Conditions or in another form approved by the Employer.
+The Contractor shall ensure that the Performance Security is valid and enforceable
+until the Contractor has executed and completed the Works and remedied anydefects.  If the terms of the Performance Security specify its expiry date, and theContractor has not become entitled to receive the Performance Certificate by the date28 days prior to the expiry date, the Contractor shall extend the validity of thePerformance Security until the Works have been completed and any defects havebeen remedied.
+The Employer shall not make a claim under the Performance Security, except for amounts
+to which the Employer is entitled under the Contract. The Employer shall indemnify andhold the Contractor harmless against and from all damages, losses and expenses(including legal fees and expenses) resulting from a claim under the Performance Securityto the extent to which the Employer was not entitled to make the claim.
+The Employer shall return the Performance Security to the Contractor within 21 days
+after receiving a copy of the Performance Certificate.
+Without limitation to the provisions of the rest of this Sub-Clause, whenever the Engineer
+determines an addition or a reduction to the Contract Price as a result of a change incost and/or legislation or as a result of a Variation amounting to more than 25 percentof the portion of the Contract Price payable in a specific currency, the Contractor shallat the Engineer’s request promptly increase, or may decrease, as the case may be, thevalue of the Performance Security in that currency by an equal percentage.
+The Contractor shall appoint the Contractor’s Representative and shall give him all
+authority necessary to act on the Contractor’s behalf under the Contract.
+Unless the Contractor’s Representative is named in the Contract, the Contractor shall,
+prior to the Commencement Date, submit to the Engineer for consent the name andparticulars of the person the Contractor proposes to appoint as Contractor’sRepresentative. If consent is withheld or subsequently revoked, or if the appointedperson fails to act as Contractor’s Representative, the Contractor shall similarly submitthe name and particulars of another suitable person for such appointment.
+The Contractor shall not, without the prior consent of the Engineer, revoke the
+appointment of the Contractor’s Representative or appoint a replacement.
+The whole time of the Contractor’s Representative shall be given to directing the
+Contractor’s performance of the Contract. If the Contractor’s Representative is to betemporarily absent from the Site during the execution of the Works, a suitablereplacement person shall be appointed, subject to the Engineer’s prior consent, andthe Engineer shall be notified accordingly.
+The Contractor’s Representative shall, on behalf of the Contractor, receive instructions
+under Sub-Clause 3.3 [ Instructions of the Engineer ].4.2
+Performance Security
+## 4 3
+Contractor’s
+Representative
+The Contractor’s Representative may delegate any powers, functions and authority to
+any competent person, and may at any time revoke the delegation. Any delegation orrevocation shall not take effect until the Engineer has received prior notice signed bythe Contractor’s Representative, naming the person and specifying the powers,functions and authority being delegated or revoked.
+The Contractor’s Representative shall be fluent in the language for communications
+defined in Sub-Clause 1.4 [ Law and Language ]. If the Contractor’s Representative’s
+delegates are not fluent in the said language, the Contractor shall make competentinterpreters available during all working hours in a number deemed sufficient by theEngineer.
+The Contractor shall not subcontract the whole of the Works.
+The Contractor shall be responsible for the acts or defaults of any Subcontractor, his
+agents or employees, as if they were the acts or defaults of the Contractor. Unlessotherwise stated in the Particular Conditions:
+(a) the Contractor shall not be required to obtain consent to suppliers solely of
+Materials, or to a subcontract for which the Subcontractor is named in theContract; 
+(b) the prior consent of the Engineer shall be obtained to other proposed
+Subcontractors;
+(c) the Contractor shall give the Engineer not less than 28 days’ notice of the
+intended date of the commencement of each Subcontractor’s work, and of thecommencement of such work on the Site; and
+(d) each subcontract shall include provisions which would entitle the Employer to
+require the subcontract to be assigned to the Employer under Sub-Clause 4.5[Assignment of Benefit of Subcontract ] (if or when applicable) or in the event of
+termination under Sub-Clause 15.2 [ Termination by Employer ].
+The Contractor shall ensure that the requirements imposed on the Contractor by Sub-
+Clause 1.12 [ Confidential Details ] apply equally to each Subcontractor.
+Where practicable, the Contractor shall give fair and reasonable opportunity for
+contractors from the Country to be appointed as Subcontractors.
+If a Subcontractor’s obligations extend beyond the expiry date of the relevant Defects
+Notification Period and the Engineer, prior to this date, instructs the Contractor toassign the benefit of such obligations to the Employer, then the Contractor shall doso. Unless otherwise stated in the assignment, the Contractor shall have no liability tothe Employer for the work carried out by the Subcontractor after the assignment takeseffect.
+The Contractor shall, as specified in the Contract or as instructed by the Engineer,
+allow appropriate opportunities for carrying out work to:
+(a) the Employer’s Personnel,
+(b) any other contractors employed by the Employer, and(c) the personnel of any legally constituted public authorities,
+who may be employed in the execution on or near the Site of any work not included
+in the Contract.4.4
+Subcontractors
+## 4 5Assignment of Benefit
+of Subcontract
+## 4 6
+Co-operation
+## 16 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+Any such instruction shall constitute a Variation if and to the extent that it causes the
+Contractor to incur Unforeseeable Cost. Services for these personnel and othercontractors may include the use of Contractor’s Equipment, Temporary Works oraccess arrangements which are the responsibility of the Contractor.
+If, under the Contract, the Employer is required to give to the Contractor possession
+of any foundation, structure, plant or means of access in accordance withContractor’s Documents, the Contractor shall submit such documents to the Engineerin the time and manner stated in the Specification.
+The Contractor shall set out the Works in relation to original points, lines and levels of
+reference specified in the Contract or notified by the Engineer. The Contractor shall beresponsible for the correct positioning of all parts of the Works, and shall rectify anyerror in the positions, levels, dimensions or alignment of the Works.
+The Employer shall be responsible for any errors in these specified or notified items of
+reference, but the Contractor shall use reasonable efforts to verify their accuracybefore they are used.
+If the Contractor suffers delay and/or incurs Cost from executing work which was
+necessitated by an error in these items of reference, and an experienced contractorcould not reasonably have discovered such error and avoided this delay and/or Cost,the Contractor shall give notice to the Engineer and shall be entitled subject to Sub-Clause 20.1 [ Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) payment of any such Cost plus profit, which shall be included in the Contract Price.
+After receiving this notice, the Engineer shall proceed in accordance with Sub-Clause
+## 3 5 [ Determinations ] to agree or determine (i) whether and (if so) to what extent the
+error could not reasonably have been discovered, and (ii) the matters described insub-paragraphs (a) and (b) above related to this extent.
+The Contractor shall:
+(a) comply with all applicable safety regulations,
+(b) take care for the safety of all persons entitled to be on the Site, (c) use reasonable efforts to keep the Site and Works clear of unnecessary
+obstruction so as to avoid danger to these persons,
+(d) provide fencing, lighting, guarding and watching of the Works until completion
+and taking over under Clause 10 [ Employer’s Taking Ove r], and
+(e) provide any Temporary Works (including roadways, footways, guards and
+fences) which may be necessary, because of the execution of the Works, forthe use and protection of the public and of owners and occupiers of adjacentland.
+The Contractor shall institute a quality assurance system to demonstrate compliance
+with the requirements of the Contract. The system shall be in accordance with the detailsstated in the Contract. The Engineer shall be entitled to audit any aspect of the system.
+Details of all procedures and compliance documents shall be submitted to the Engineer
+for information before each design and execution stage is commenced. When any4.7
+Setting Out
+## 4 8Safety Procedures
+## 4 9Quality Assurance
+document of a technical nature is issued to the Engineer, evidence of the prior approval
+by the Contractor himself shall be apparent on the document itself.
+Compliance with the quality assurance system shall not relieve the Contractor of any of
+his duties, obligations or responsibilities under the Contract.
+The Employer shall have made available to the Contractor for his information, prior to
+the Base Date, all relevant data in the Employer’s possession on sub-surface andhydrological conditions at the Site, including environmental aspects. The Employershall similarly make available to the Contractor all such data which come into theEmployer’s possession after the Base Date. The Contractor shall be responsible forinterpreting all such data.
+To the extent which was practicable (taking account of cost and time), the Contractor
+shall be deemed to have obtained all necessary information as to risks, contingenciesand other circumstances which may influence or affect the Tender or Works. To thesame extent, the Contractor shall be deemed to have inspected and examined theSite, its surroundings, the above data and other available information, and to havebeen satisfied before submitting the Tender as to all relevant matters, including(without limitation):
+(a) the form and nature of the Site, including sub-surface conditions, 
+(b) the hydrological and climatic conditions,(c) the extent and nature of the work and Goods necessary for the execution and
+completion of the Works and the remedying of any defects,
+(d) the Laws, procedures and labour practices of the Country, and(e) the Contractor’s requirements for access, accommodation, facilities, personnel,
+power, transport, water and other services.
+The Contractor shall be deemed to:
+(a) have satisfied himself as to the correctness and sufficiency of the Accepted
+Contract Amount, and
+(b) have based the Accepted Contract Amount on the data, interpretations,
+necessary information, inspections, examinations and satisfaction as to allrelevant matters referred to in Sub-Clause 4.10 [ Site Data ].
+Unless otherwise stated in the Contract, the Accepted Contract Amount covers all the
+Contractor’s obligations under the Contract (including those under Provisional Sums,if any) and all things necessary for the proper execution and completion of the Worksand the remedying of any defects.
+In this Sub-Clause, “physical conditions” means natural physical conditions and man-
+made and other physical obstructions and pollutants, which the Contractorencounters at the Site when executing the Works, including sub-surface andhydrological conditions but excluding climatic conditions.
+If the Contractor encounters adverse physical conditions which he considers to have
+been Unforeseeable, the Contractor shall give notice to the Engineer as soon aspracticable.
+This notice shall describe the physical conditions, so that they can be inspected by
+the Engineer, and shall set out the reasons why the Contractor considers them to be4.10
+Site Data
+## 4 11Sufficiency of the
+Accepted Contract Amount
+## 4 12
+Unforeseeable Physical
+Conditions
+## 18 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+Unforeseeable. The Contractor shall continue executing the Works, using such proper
+and reasonable measures as are appropriate for the physical conditions, and shallcomply with any instructions which the Engineer may give. If an instruction constitutesa Variation, Clause 13 [ Variations and Adjustments ] shall apply.
+If and to the extent that the Contractor encounters physical conditions which are
+Unforeseeable, gives such a notice, and suffers delay and/or incurs Cost due to theseconditions, the Contractor shall be entitled subject to Sub-Clause 20.1 [ Contractor’s
+Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) payment of any such Cost, which shall be included in the Contract Price.
+After receiving such notice and inspecting and/or investigating these physical
+conditions, the Engineer shall proceed in accordance with Sub-Clause 3.5[Determinations ] to agree or determine (i) whether and (if so) to what extent these
+physical conditions were Unforeseeable, and (ii) the matters described in sub-paragraphs (a) and (b) above related to this extent.
+However, before additional Cost is finally agreed or determined under sub-paragraph
+(ii), the Engineer may also review whether other physical conditions in similar parts ofthe Works (if any) were more favourable than could reasonably have been foreseenwhen the Contractor submitted the Tender. If and to the extent that these morefavourable conditions were encountered, the Engineer may proceed in accordancewith Sub-Clause 3.5 [ Determinations ] to agree or determine the reductions in Cost
+which were due to these conditions, which may be included (as deductions) in theContract Price and Payment Certificates. However, the net effect of all adjustmentsunder sub-paragraph (b) and all these reductions, for all the physical conditionsencountered in similar parts of the Works, shall not result in a net reduction in theContract Price.
+The Engineer may take account of any evidence of the physical conditions foreseen
+by the Contractor when submitting the Tender, which may be made available by theContractor, but shall not be bound by any such evidence.
+The Contractor shall bear all costs and charges for special and/or temporary rights-
+of-way which he may require, including those for access to the Site. The Contractorshall also obtain, at his risk and cost, any additional facilities outside the Site which hemay require for the purposes of the Works.
+The Contractor shall not interfere unnecessarily or improperly with:
+(a) the convenience of the public, or
+(b) the access to and use and occupation of all roads and footpaths, irrespective
+of whether they are public or in the possession of the Employer or of others.
+The Contractor shall indemnify and hold the Employer harmless against and from all
+damages, losses and expenses (including legal fees and expenses) resulting from anysuch unnecessary or improper interference.
+The Contractor shall be deemed to have been satisfied as to the suitability and availability
+of access routes to the Site. The Contractor shall use reasonable efforts to prevent any4.13
+Rights of Way and
+Facilities
+## 4 14
+Avoidance of 
+Interference
+## 4 15
+Access Route
+road or bridge from being damaged by the Contractor’s traffic or by the Contractor’s
+Personnel. These efforts shall include the proper use of appropriate vehicles and routes.
+Except as otherwise stated in these Conditions:(a) the Contractor shall (as between the Parties) be responsible for any
+maintenance which may be required for his use of access routes;
+(b) the Contractor shall provide all necessary signs or directions along access
+routes, and shall obtain any permission which may be required from therelevant authorities for his use of routes, signs and directions;
+(c) the Employer shall not be responsible for any claims which may arise from the
+use or otherwise of any access route;
+(d) the Employer does not guarantee the suitability or availability of particular
+access routes; and
+(e) Costs due to non-suitability or non-availability, for the use required by the
+Contractor, of access routes shall be borne by the Contractor.
+Unless otherwise stated in the Particular Conditions:
+(a) the Contractor shall give the Engineer not less than 21 days’ notice of the date
+on which any Plant or a major item of other Goods will be delivered to the Site;
+(b) the Contractor shall be responsible for packing, loading, transporting, receiving,
+unloading, storing and protecting all Goods and other things required for theWorks; and
+(c) the Contractor shall indemnify and hold the Employer harmless against and
+from all damages, losses and expenses (including legal fees and expenses)resulting from the transport of Goods, and shall negotiate and pay all claimsarising from their transport.
+The Contractor shall be responsible for all Contractor’s Equipment. When brought on
+to the Site, Contractor’s Equipment shall be deemed to be exclusively intended for theexecution of the Works. The Contractor shall not remove from the Site any major itemsof Contractor’s Equipment without the consent of the Engineer. However, consentshall not be required for vehicles transporting Goods or Contractor’s Personnel offSite.
+The Contractor shall take all reasonable steps to protect the environment (both on and
+off the Site) and to limit damage and nuisance to people and property resulting frompollution, noise and other results of his operations.
+The Contractor shall ensure that emissions, surface discharges and effluent from the
+Contractor’s activities shall not exceed the values stated in the Specification orprescribed by applicable Laws.
+The Contractor shall, except as stated below, be responsible for the provision of all
+power, water and other services he may require.
+The Contractor shall be entitled to use for the purposes of the Works such supplies
+of electricity, water, gas and other services as may be available on the Site and ofwhich details and prices are given in the Specification. The Contractor shall, at his riskand cost, provide any apparatus necessary for his use of these services and formeasuring the quantities consumed.4.16
+Transport of Goods
+## 4 17Contractor’s
+Equipment
+## 4 18
+Protection of the 
+Environment
+## 4 19
+Electricity, Water and 
+Gas
+## 20 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+The quantities consumed and the amounts due (at these prices) for such services shall
+be agreed or determined by the Engineer in accordance with Sub-Clause 2.5[Employer’s Claims ] and Sub-Clause 3.5 [ Determinations ]. The Contractor shall pay
+these amounts to the Employer.
+The Employer shall make the Employer’s Equipment (if any) available for the use of the
+Contractor in the execution of the Works in accordance with the details, arrangementsand prices stated in the Specification. Unless otherwise stated in the Specification:
+(a) the Employer shall be responsible for the Employer’s Equipment, except that
+(b) the Contractor shall be responsible for each item of Employer’s Equipment
+whilst any of the Contractor’s Personnel is operating it, driving it, directing it orin possession or control of it.
+The appropriate quantities and the amounts due (at such stated prices) for the use of
+Employer’s Equipment shall be agreed or determined by the Engineer in accordancewith Sub-Clause 2.5 [ Employer’s Claims ] and Sub-Clause 3.5 [ Determinations ]. The
+Contractor shall pay these amounts to the Employer.
+The Employer shall supply, free of charge, the “free-issue materials” (if any) in accordance
+with the details stated in the Specification. The Employer shall, at his risk and cost,provide these materials at the time and place specified in the Contract. The Contractorshall then visually inspect them, and shall promptly give notice to the Engineer of anyshortage, defect or default in these materials. Unless otherwise agreed by both Parties,the Employer shall immediately rectify the notified shortage, defect or default.
+After this visual inspection, the free-issue materials shall come under the care, custody
+and control of the Contractor. The Contractor’s obligations of inspection, care,custody and control shall not relieve the Employer of liability for any shortage, defector default not apparent from a visual inspection.
+Unless otherwise stated in the Particular Conditions, monthly progress reports shall be
+prepared by the Contractor and submitted to the Engineer in six copies. The firstreport shall cover the period up to the end of the first calendar month following theCommencement Date. Reports shall be submitted monthly thereafter, each within 7days after the last day of the period to which it relates.
+Reporting shall continue until the Contractor has completed all work which is known to
+be outstanding at the completion date stated in the Taking-Over Certificate for the Works.
+Each report shall include:(a) charts and detailed descriptions of progress, including each stage of design (if
+any), Contractor’s Documents, procurement, manufacture, delivery to Site,construction, erection and testing; and including these stages for work by eachnominated Subcontractor (as defined in Clause 5 [ Nominated Subcontractors ]),
+(b) photographs showing the status of manufacture and of progress on the Site;(c) for the manufacture of each main item of Plant and Materials, the name of the
+manufacturer, manufacture location, percentage progress, and the actual orexpected dates of:(i) commencement of manufacture,(ii) Contractor’s inspections,(iii) tests, and(iv) shipment and arrival at the Site;4.20
+Employer’s Equipment 
+and Free-Issue Material
+## 4 21Progress Reports
+(d) the details described in Sub-Clause 6.10 [ Records of Contractor’s Personnel
+and Equipment ];
+(e) copies of quality assurance documents, test results and certificates of Materials;(f) list of notices given under Sub-Clause 2.5 [ Employer’s Claims ] and notices
+given under Sub-Clause 20.1 [ Contractor’s Claims ];
+(g) safety statistics, including details of any hazardous incidents and activities
+relating to environmental aspects and public relations; and
+(h) comparisons of actual and planned progress, with details of any events or
+circumstances which may jeopardise the completion in accordance with theContract, and the measures being (or to be) adopted to overcome delays.
+Unless otherwise stated in the Particular Conditions:
+(a) the Contractor shall be responsible for keeping unauthorised persons off the
+Site, and
+(b) authorised persons shall be limited to the Contractor’s Personnel and the
+Employer’s Personnel; and to any other personnel notified to the Contractor, bythe Employer or the Engineer, as authorised personnel of the Employer’s othercontractors on the Site.
+The Contractor shall confine his operations to the Site, and to any additional areas
+which may be obtained by the Contractor and agreed by the Engineer as workingareas. The Contractor shall take all necessary precautions to keep Contractor’sEquipment and Contractor’s Personnel within the Site and these additional areas, andto keep them off adjacent land.
+During the execution of the Works, the Contractor shall keep the Site free from all
+unnecessary obstruction, and shall store or dispose of any Contractor’s Equipment orsurplus materials. The Contractor shall clear away and remove from the Site anywreckage, rubbish and Temporary Works which are no longer required.
+Upon the issue of a Taking-Over Certificate, the Contractor shall clear away and remove,
+from that part of the Site and Works to which the Taking-Over Certificate refers, allContractor’s Equipment, surplus material, wreckage, rubbish and Temporary Works. TheContractor shall leave that part of the Site and the Works in a clean and safe condition.However, the Contractor may retain on Site, during the Defects Notification Period, suchGoods as are required for the Contractor to fulfill obligations under the Contract.
+All fossils, coins, articles of value or antiquity, and structures and other remains or
+items of geological or archaeological interest found on the Site shall be placed underthe care and authority of the Employer. The Contractor shall take reasonableprecautions to prevent Contractor’s Personnel or other persons from removing ordamaging any of these findings.
+The Contractor shall, upon discovery of any such finding, promptly give notice to the
+Engineer, who shall issue instructions for dealing with it. If the Contractor suffers delayand/or incurs Cost from complying with the instructions, the Contractor shall give afurther notice to the Engineer and shall be entitled subject to Sub-Clause 20.1[Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) payment of any such Cost, which shall be included in the Contract Price.4.22
+Security of the Site
+## 4 23Contractor’s Operations
+on Site
+## 4 24
+Fossils
+## 22 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+After receiving this further notice, the Engineer shall proceed in accordance with Sub-
+Clause 3.5 [ Determinations ] to agree or determine these matters.
+In the Contract, “nominated Subcontractor” means a Subcontractor:
+(a) who is stated in the Contract as being a nominated Subcontractor, or
+(b) whom the Engineer, under Clause 13 [ Variations and Adjustments ], instructs
+the Contractor to employ as a Subcontractor.
+The Contractor shall not be under any obligation to employ a nominated
+Subcontractor against whom the Contractor raises reasonable objection by notice tothe Engineer as soon as practicable, with supporting particulars. An objection shall bedeemed reasonable if it arises from (among other things) any of the following matters,unless the Employer agrees to indemnify the Contractor against and from theconsequences of the matter:
+(a) there are reasons to believe that the Subcontractor does not have sufficient
+competence, resources or financial strength;
+(b) the subcontract does not specify that the nominated Subcontractor shall
+indemnify the Contractor against and from any negligence or misuse of Goodsby the nominated Subcontractor, his agents and employees; or
+(c) the subcontract does not specify that, for the subcontracted work (including
+design, if any), the nominated Subcontractor shall:
+(i) undertake to the Contractor such obligations and liabilities as will enable the
+Contractor to discharge his obligations and liabilities under the Contract, and
+(ii) indemnify the Contractor against and from all obligations and liabilities
+arising under or in connection with the Contract and from theconsequences of any failure by the Subcontractor to perform theseobligations or to fulfil these liabilities.
+The Contractor shall pay to the nominated Subcontractor the amounts which the
+Engineer certifies to be due in accordance with the subcontract. These amounts plusother charges shall be included in the Contract Price in accordance with sub-paragraph (b) of Sub-Clause 13.5 [ Provisional Sums ], except as stated in Sub-Clause
+## 5 4 [Evidence of Payments ].
+Before issuing a Payment Certificate which includes an amount payable to a
+nominated Subcontractor, the Engineer may request the Contractor to supplyreasonable evidence that the nominated Subcontractor has received all amounts duein accordance with previous Payment Certificates, less applicable deductions forretention or otherwise. Unless the Contractor:
+(a) submits this reasonable evidence to the Engineer, or
+(b) (i) satisfies the Engineer in writing that the Contractor is reasonably entitled
+to withhold or refuse to pay these amounts, and
+(ii) submits to the Engineer reasonable evidence that the nominated
+Subcontractor has been notified of the Contractor’s entitlement,5.1
+Definition of “nominated Subcontractor”
+## 5 2
+Objection to Nomination
+## 5 3Payments to nominated
+Subcontractors
+## 5 4
+Evidence of Payments5Nominated Subcontractors
+then the Employer may (at his sole discretion) pay, direct to the nominated
+Subcontractor, part or all of such amounts previously certified (less applicabledeductions) as are due to the nominated Subcontractor and for which the Contractorhas failed to submit the evidence described in sub-paragraphs (a) or (b) above. TheContractor shall then repay, to the Employer, the amount which the nominatedSubcontractor was directly paid by the Employer.
+Except as otherwise stated in the Specification, the Contractor shall makearrangements for the engagement of all staff and labour, local or otherwise, and fortheir payment, housing, feeding and transport.
+The Contractor is encouraged, to the extent practicable and reasonable, to employ
+staff and labour with appropriate qualifications and experience from sources within theCountry.
+The Contractor shall pay rates of wages, and observe conditions of labour, which are
+not lower than those established for the trade or industry where the work is carriedout. If no established rates or conditions are applicable, the Contractor shall pay ratesof wages and observe conditions which are not lower than the general level of wagesand conditions observed locally by employers whose trade or industry is similar to thatof the Contractor.
+The Contractor shall inform the Contractor’s Personnel about their liability to pay
+personal income taxes in the Country in respect of such of their salaries, wages andallowances as are chargeable under the Laws of the Country for the time being inforce, and the Contractor shall perform such duties in regard to such deductionsthereof as may be imposed on him by such Laws.
+The Contractor shall not recruit, or attempt to recruit, staff and labour from amongst
+the Employer’s Personnel.
+The Contractor shall comply with all the relevant labour Laws applicable to the
+Contractor’s Personnel, including Laws relating to their employment, health, safety,welfare, immigration and emigration, and shall allow them all their legal rights.
+The Contractor shall require his employees to obey all applicable Laws, including
+those concerning safety at work.
+No work shall be carried out on the Site on locally recognised days of rest, or outside
+the normal working hours stated in the Contract Data, unless:
+(a) otherwise stated in the Contract,
+(b) the Engineer gives consent, or(c) the work is unavoidable, or necessary for the protection of life or property or for
+the safety of the Works, in which case the Contractor shall immediately advisethe Engineer.6.1
+Engagement of Staff and Labour
+## 6 2
+Rates of Wages and
+Conditions of Labour
+## 6 3
+Persons in the Service
+of Employer
+## 6 4
+Labour Laws
+## 6 5Working Hours6Staff and Labour
+## 24 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+Except as otherwise stated in the Specification, the Contractor shall provide and
+maintain all necessary accommodation and welfare facilities for the Contractor’sPersonnel. The Contractor shall also provide facilities for the Employer’s Personnel asstated in the Specification.
+The Contractor shall not permit any of the Contractor’s Personnel to maintain any
+temporary or permanent living quarters within the structures forming part of thePermanent Works.
+The Contractor shall at all times take all reasonable precautions to maintain the health
+and safety of the Contractor’s Personnel. In collaboration with local health authorities,the Contractor shall ensure that medical staff, first aid facilities, sick bay andambulance service are available at all times at the Site and at any accommodation forContractor’s and Employer’s Personnel, and that suitable arrangements are made forall necessary welfare and hygiene requirements and for the prevention of epidemics.
+The Contractor shall appoint an accident prevention officer at the Site, responsible for
+maintaining safety and protection against accidents. This person shall be qualified forthis responsibility, and shall have the authority to issue instructions and take protectivemeasures to prevent accidents. Throughout the execution of the Works, theContractor shall provide whatever is required by this person to exercise thisresponsibility and authority.
+The Contractor shall send, to the Engineer, details of any accident as soon as
+practicable after its occurrence. The Contractor shall maintain records and makereports concerning health, safety and welfare of persons, and damage to property, asthe Engineer may reasonably require.
+HIV-AIDS Prevention. The Contractor shall conduct an HIV-AIDS awareness
+programme via an approved service provider, and shall undertake such othermeasures as are specified in this Contract to reduce the risk of the transfer of the HIVvirus between and among the Contractor’s Personnel and the local community, topromote early diagnosis and to assist affected individuals.
+The Contractor shall throughout the contract (including the Defects Notification
+Period): (i) conduct Information, Education and Consultation Communication (IEC)campaigns, at least every other month, addressed to all the Site staff and labour(including all the Contractor’s employees, all Subcontractors and Consultants’employees, and all truck drivers and crew making deliveries to Site for constructionactivities) and to the immediate local communities, concerning the risks, dangers andimpact of, and appropriate avoidance behaviour with respect to, Sexually TransmittedDiseases (STD)-or Sexually Transmitted Infections (STI) in general and HIV/AIDS inparticular; (ii) provide male or female condoms for all Site staff and labour asappropriate; and (iii) provide for STI and HIV/AIDS screening, diagnosis, counsellingand referral to a dedicated national STI and HIV/AIDS programme, (unless otherwiseagreed) of all Site staff and labour.
+The Contractor shall include in the programme to be submitted for the execution of
+the Works under Sub-Clause 8.3 an alleviation programme for Site staff and labourand their families in respect of Sexually Transmitted Infections (STI) and SexuallyTransmitted Diseases (STD) including HIV/AIDS. The STI, STD and HIV/AIDSalleviation programme shall indicate when, how and at what cost the Contractor plansto satisfy the requirements of this Sub-Clause and the related specification. For eachcomponent, the programme shall detail the resources to be provided or utilized andany related sub-contracting proposed. The programme shall also include provision of6.6
+Facilities for Staffand Labour
+## 6 7
+Health and Safety
+a detailed cost estimate with supporting documentation. Payment to the Contractor
+for preparation and implementation this programme shall not exceed the ProvisionalSum dedicated for this purpose.
+Throughout the execution of the Works, and as long thereafter as is necessary to fulfil
+the Contractor’s obligations, the Contractor shall provide all necessarysuperintendence to plan, arrange, direct, manage, inspect and test the work.
+Superintendence shall be given by a sufficient number of persons having adequate
+knowledge of the language for communications (defined in Sub-Clause 1.4 [ Law and
+Language ]) and of the operations to be carried out (including the methods and
+techniques required, the hazards likely to be encountered and methods of preventingaccidents), for the satisfactory and safe execution of the Works.
+The Contractor’s Personnel shall be appropriately qualified, skilled and experienced in
+their respective trades or occupations. The Engineer may require the Contractor toremove (or cause to be removed) any person employed on the Site or Works,including the Contractor’s Representative if applicable, who:
+(a) persists in any misconduct or lack of care,
+(b) carries out duties incompetently or negligently,(c) fails to conform with any provisions of the Contract, or(d) persists in any conduct which is prejudicial to safety, health, or the protection
+of the environment.
+If appropriate, the Contractor shall then appoint (or cause to be appointed) a suitable
+replacement person.
+The Contractor shall submit, to the Engineer, details showing the number of each
+class of Contractor’s Personnel and of each type of Contractor’s Equipment on theSite. Details shall be submitted each calendar month, in a form approved by theEngineer, until the Contractor has completed all work which is known to beoutstanding at the completion date stated in the Taking-Over Certificate for theWorks.
+The Contractor shall at all times take all reasonable precautions to prevent any
+unlawful, riotous or disorderly conduct by or amongst the Contractor’s Personnel, andto preserve peace and protection of persons and property on and near the Site.
+The Contractor may bring in to the country any foreign personnel who are necessary
+for the execution of the Works to the extent allowed by the applicable Laws. TheContractor shall ensure that these personnel are provided with the required residencevisas and work permits. The Employer will, if requested by the Contractor, use his bestendeavours in a timely and expeditious manner to assist the Contractor in obtainingany local, state, national, or government permission required for bringing in theContractor’s personnel.
+The Contractor shall be responsible for the return of these personnel to the place
+where they were recruited or to their domicile. In the event of the death in the Countryof any of these personnel or members of their families, the Contractor shall similarlybe responsible for making the appropriate arrangements for their return or burial.6.8
+Contractor’s 
+Superintendence
+## 6 9
+Contractor’s
+Personnel
+## 6 10
+Records of Contractor’s 
+Personnel and Equipment
+## 6 11
+Disorderly Conduct
+## 6 12Foreign Personnel
+## 26 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+The Contractor shall arrange for the provision of a sufficient supply of suitable food as
+may be stated in the Specification at reasonable prices for the Contractor’s Personnelfor the purposes of or in connection with the Contract.
+The Contractor shall, having regard to local conditions, provide on the Site an
+adequate supply of drinking and other water for the use of the Contractor’s Personnel.
+The Contractor shall at all times take the necessary precautions to protect the
+Contractor’s Personnel employed on the Site from insect and pest nuisance, and toreduce their danger to health. The Contractor shall comply with all the regulations ofthe local health authorities, including use of appropriate insecticide.
+The Contractor shall not, otherwise than in accordance with the Laws of the Country,
+import, sell, give, barter or otherwise dispose of any alcoholic liquor or drugs, orpermit or allow importation, sale, gift, barter or disposal thereto by Contractor’sPersonnel.
+The Contractor shall not give, barter, or otherwise dispose of, to any person, any arms
+or ammunition of any kind, or allow Contractor’s Personnel to do so.
+The Contractor shall respect the Country’s recognized festivals, days of rest and
+religious or other customs.
+The Contractor shall be responsible, to the extent required by local regulations, for
+making any funeral arrangements for any of his local employees who may die whileengaged upon the Works.
+The contractor shall not employ “forced or compulsory labour” in any form. “Forced
+or compulsory labour” consists of all work or service, not voluntarily performed, thatis extracted from an individual under threat of force or penalty.
+The Contractor shall not employ any child to perform any work that is economically
+exploitative, or is likely to be hazardous to, or to interfere with, the child’s education,or to be harmful to the child’s health or physical, mental, spiritual, moral, or socialdevelopment.
+The Contractor shall keep complete and accurate records of the employment of
+labour at the Site. The records shall include the names, ages, genders, hours workedand wages paid to all workers. These records shall be summarized on a monthly basisand shall be available for inspection by the Engineer during normal working hours.These records shall be included in the details to be submitted by the Contractor underSub-Clause 6.10 [ Records of Contractor’s Personnel and Equipmen t].6.13
+Supply of Foodstuffs
+## 6 14
+Supply of Water
+## 6 15Measures against Insect
+and Pest Nuisance
+## 6 16
+Alcoholic Liquor or Drugs
+## 6 17Arms and Ammunition
+## 6 18Festivals and Religious
+Customs
+## 6 19
+Funeral Arrangements
+## 6 20Prohibition of Forced
+or Compulsory Labour
+## 6 21
+Prohibition of Harmful
+Child Labour
+## 6 22
+Employment Records of
+Workers
+The Contractor shall carry out the manufacture of Plant, the production and
+manufacture of Materials, and all other execution of the Works:
+(a) in the manner (if any) specified in the Contract,
+(b) in a proper workmanlike and careful manner, in accordance with recognised
+good practice, and
+(c) with properly equipped facilities and non-hazardous Materials, except as
+otherwise specified in the Contract.
+The Contractor shall submit the following samples of Materials, and relevant
+information, to the Engineer for consent prior to using the Materials in or for the Works:
+(a) manufacturer’s standard samples of Materials and samples specified in the
+Contract, all at the Contractor’s cost, and
+(b) additional samples instructed by the Engineer as a Variation.
+Each sample shall be labelled as to origin and intended use in the Works.
+The Employer’s Personnel shall at all reasonable times:
+(a) have full access to all parts of the Site and to all places from which natural
+Materials are being obtained, and
+(b) during production, manufacture and construction (at the Site and elsewhere),
+be entitled to examine, inspect, measure and test the materials andworkmanship, and to check the progress of manufacture of Plant andproduction and manufacture of Materials.
+The Contractor shall give the Employer’s Personnel full opportunity to carry out these
+activities, including providing access, facilities, permissions and safety equipment. Nosuch activity shall relieve the Contractor from any obligation or responsibility.
+The Contractor shall give notice to the Engineer whenever any work is ready and
+before it is covered up, put out of sight, or packaged for storage or transport. TheEngineer shall then either carry out the examination, inspection, measurement ortesting without unreasonable delay, or promptly give notice to the Contractor that theEngineer does not require to do so. If the Contractor fails to give the notice, he shall,if and when required by the Engineer, uncover the work and thereafter reinstate andmake good, all at the Contractor’s cost.
+This Sub-Clause shall apply to all tests specified in the Contract, other than the Tests
+after Completion (if any).
+The Contractor shall provide all apparatus, assistance, documents and other
+information, electricity, equipment, fuel, consumables, instruments, labour,materials, and suitably qualified and experienced staff, as are necessary to carry outthe specified tests efficiently. The Contractor shall agree, with the Engineer, the timeand place for the specified testing of any Plant, Materials and other parts of theWorks.7.1 
+Manner of Execution
+## 7 2
+Samples
+## 7 3Inspection
+## 7 4Testing7Plant, Materials and Workmanship
+## 28 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+The Engineer may, under Clause 13 [ Variations and Adjustments ], vary the location or
+details of specified tests, or instruct the Contractor to carry out additional tests. Ifthese varied or additional tests show that the tested Plant, Materials or workmanshipis not in accordance with the Contract, the cost of carrying out this Variation shall beborne by the Contractor, notwithstanding other provisions of the Contract.
+The Engineer shall give the Contractor not less than 24 hours’ notice of the Engineer’s
+intention to attend the tests. If the Engineer does not attend at the time and placeagreed, the Contractor may proceed with the tests, unless otherwise instructed by theEngineer, and the tests shall then be deemed to have been made in the Engineer’spresence.
+If the Contractor suffers delay and/or incurs Cost from complying with these
+instructions or as a result of a delay for which the Employer is responsible, theContractor shall give notice to the Engineer and shall be entitled subject to Sub-Clause 20.1 [ Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) payment of any such Cost plus profit, which shall be included in the Contract
+Price.
+After receiving this notice, the Engineer shall proceed in accordance with Sub-Clause
+## 3 5 [Determinations ] to agree or determine these matters.
+The Contractor shall promptly forward to the Engineer duly certified reports of the tests.
+When the specified tests have been passed, the Engineer shall endorse the Contractor’stest certificate, or issue a certificate to him, to that effect. If the Engineer has notattended the tests, he shall be deemed to have accepted the readings as accurate.
+If, as a result of an examination, inspection, measurement or testing, any Plant,
+Materials or workmanship is found to be defective or otherwise not in accordance withthe Contract, the Engineer may reject the Plant, Materials or workmanship by givingnotice to the Contractor, with reasons. The Contractor shall then promptly make goodthe defect and ensure that the rejected item complies with the Contract.
+If the Engineer requires this Plant, Materials or workmanship to be retested, the tests
+shall be repeated under the same terms and conditions. If the rejection and retestingcause the Employer to incur additional costs, the Contractor shall subject to Sub-Clause 2.5 [ Employer’s Claims ] pay these costs to the Employer.
+Notwithstanding any previous test or certification, the Engineer may instruct the
+Contractor to:
+(a) remove from the Site and replace any Plant or Materials which is not in
+accordance with the Contract,
+(b) remove and re-execute any other work which is not in accordance with the
+Contract, and
+(c) execute any work which is urgently required for the safety of the Works,
+whether because of an accident, unforeseeable event or otherwise.
+The Contractor shall comply with the instruction within a reasonable time, which shall
+be the time (if any) specified in the instruction, or immediately if urgency is specifiedunder sub-paragraph (c).7.5
+Rejection
+## 7 6Remedial Work
+If the Contractor fails to comply with the instruction, the Employer shall be entitled to
+employ and pay other persons to carry out the work. Except to the extent that theContractor would have been entitled to payment for the work, the Contractor shallsubject to Sub-Clause 2.5 [ Employer’s Claims ] pay to the Employer all costs arising
+from this failure.
+Each item of Plant and Materials shall, to the extent consistent with the Laws of the
+Country, become the property of the Employer at whichever is the earlier of thefollowing times, free from liens and other encumbrances:
+(a) when it is delivered to the Site;
+(b) when the Contractor is entitled to payment of the value of the Plant and Materials
+under Sub-Clause 8.10 [ Payment for Plant and Materials in Event of Suspension ].
+Unless otherwise stated in the Specification, the Contractor shall pay all royalties,
+rents and other payments for:
+(a) natural Materials obtained from outside the Site, and
+(b) the disposal of material from demolitions and excavations and of other surplus
+material (whether natural or man-made), except to the extent that disposalareas within the Site are specified in the Contract.
+The Engineer shall give the Contractor not less than 7 days’ notice of the CommencementDate. Unless otherwise stated in the Particular Conditions, the Commencement Dateshall be within 42 days after the Contractor receives the Letter of Acceptance.
+The Contractor shall commence the execution of the Works as soon as is reasonably
+practicable after the Commencement Date, and shall then proceed with the Workswith due expedition and without delay.
+The Contractor shall complete the whole of the Works, and each Section (if any), within
+the Time for Completion for the Works or Section (as the case may be), including:
+(a) achieving the passing of the Tests on Completion, and
+(b) completing all work which is stated in the Contract as being required for the
+Works or Section to be considered to be completed for the purposes of taking-over under Sub-Clause 10.1 [ Taking Over of the Works and Sections ].
+The Contractor shall submit a detailed time programme to the Engineer within 28 days
+after receiving the notice under Sub-Clause 8.1 [ Commencement of Works ]. The
+Contractor shall also submit a revised programme whenever the previous programmeis inconsistent with actual progress or with the Contractor’s obligations. Eachprogramme shall include:
+(a) the order in which the Contractor intends to carry out the Works, including the
+anticipated timing of each stage of design (if any), Contractor’s Documents,procurement, manufacture of Plant, delivery to Site, construction, erection andtesting,7.7
+Ownership of Plant and 
+Materials 
+## 7 8
+Royalties
+## 8 1
+Commencement of Works
+## 8 2
+Time for Completion
+## 8 3Programme8Commencement, Delays and Suspension
+## 30 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+(b) each of these stages for work by each nominated Subcontractor (as defined in
+Clause 5 [ Nominated Subcontractors ],
+(c) the sequence and timing of inspections and tests specified in the Contract, and(d) a supporting report which includes:
+(i) a general description of the methods which the Contractor intends to
+adopt, and of the major stages, in the execution of the Works, and
+(ii) details showing the Contractor’s reasonable estimate of the number of
+each class of Contractor’s Personnel and of each type of Contractor’sEquipment, required on the Site for each major stage.
+Unless the Engineer, within 21 days after receiving a programme, gives notice to the
+Contractor stating the extent to which it does not comply with the Contract, theContractor shall proceed in accordance with the programme, subject to his otherobligations under the Contract. The Employer’s Personnel shall be entitled to rely uponthe programme when planning their activities.
+The Contractor shall promptly give notice to the Engineer of specific probable future
+events or circumstances which may adversely affect the work, increase the ContractPrice or delay the execution of the Works. The Engineer may require the Contractorto submit an estimate of the anticipated effect of the future event or circumstances,and/or a proposal under Sub-Clause 13.3 [ Variation Procedure ].
+If, at any time, the Engineer gives notice to the Contractor that a programme fails (to
+the extent stated) to comply with the Contract or to be consistent with actual progressand the Contractor’s stated intentions, the Contractor shall submit a revisedprogramme to the Engineer in accordance with this Sub-Clause.
+The Contractor shall be entitled subject to Sub-Clause 20.1 [ Contractor’s Claims ] to
+an extension of the Time for Completion if and to the extent that completion for thepurposes of Sub-Clause 10.1 [ Taking-Over of the Works and Sections ] is or will be
+delayed by any of the following causes:
+(a) a Variation (unless an adjustment to the Time for Completion has been agreed
+under Sub-Clause 13.3 [ Variation Procedure ]) or other substantial change in
+the quantity of an item of work included in the Contract,
+(b) a cause of delay giving an entitlement to extension of time under a Sub-Clause
+of these Conditions,
+(c) exceptionally adverse climatic conditions,(d) Unforeseeable shortages in the availability of personnel or Goods caused by
+epidemic or governmental actions, or
+(e) any delay, impediment or prevention caused by or attributable to the Employer,
+the Employer’s Personnel, or the Employer’s other contractors.
+If the Contractor considers himself to be entitled to an extension of the Time for
+Completion, the Contractor shall give notice to the Engineer in accordance with Sub-Clause 20.1 [ Contractor’s Claims ]. When determining each extension of time under
+Sub-Clause 20.1, the Engineer shall review previous determinations and mayincrease, but shall not decrease, the total extension of time.
+If the following conditions apply, namely:
+(a) the Contractor has diligently followed the procedures laid down by the relevant
+legally constituted public authorities in the Country,8.4
+Extension of Time for 
+Completion
+## 8 5
+Delays Caused by 
+Authorities
+(b) these authorities delay or disrupt the Contractor’s work, and
+(c) the delay or disruption was Unforeseeable,
+then this delay or disruption will be considered as a cause of delay under sub-
+paragraph (b) of Sub-Clause 8.4 [ Extension of Time for Completion ].
+If, at any time:
+(a) actual progress is too slow to complete within the Time for Completion, and/or
+(b) progress has fallen (or will fall) behind the current programme under Sub-Clause
+## 8 3 [Programme ],
+other than as a result of a cause listed in Sub-Clause 8.4 [ Extension of Time for
+Completion ], then the Engineer may instruct the Contractor to submit, under Sub-
+Clause 8.3 [ Programme ], a revised programme and supporting report describing the
+revised methods which the Contractor proposes to adopt in order to expediteprogress and complete within the Time for Completion.
+Unless the Engineer notifies otherwise, the Contractor shall adopt these revised
+methods, which may require increases in the working hours and/or in the numbers ofContractor’s Personnel and/or Goods, at the risk and cost of the Contractor. If theserevised methods cause the Employer to incur additional costs, the Contractor shallsubject to Sub-Clause 2.5 [ Employer’s Claims ] pay these costs to the Employer, in
+addition to delay damages (if any) under Sub-Clause 8.7 below.
+If the Contractor fails to comply with Sub-Clause 8.2 [ Time for Completion ], the
+Contractor shall subject to Sub-Clause 2.5 [ Employer’s Claim s] pay delay damages
+to the Employer for this default. These delay damages shall be the sum stated in theContract Data, which shall be paid for every day which shall elapse between therelevant Time for Completion and the date stated in the Taking-Over Certificate.However, the total amount due under this Sub-Clause shall not exceed the maximumamount of delay damages (if any) stated in the Contract Data.
+These delay damages shall be the only damages due from the Contractor for such
+default, other than in the event of termination under Sub-Clause 15.2 [ Termination by
+Employer ] prior to completion of the Works. These damages shall not relieve the
+Contractor from his obligation to complete the Works, or from any other duties,obligations or responsibilities which he may have under the Contract.
+The Engineer may at any time instruct the Contractor to suspend progress of part or
+all of the Works. During such suspension, the Contractor shall protect, store andsecure such part or the Works against any deterioration, loss or damage.
+The Engineer may also notify the cause for the suspension. If and to the extent that
+the cause is notified and is the responsibility of the Contractor, the following Sub-Clauses 8.9, 8.10 and 8.11 shall not apply.
+If the Contractor suffers delay and/or incurs Cost from complying with the Engineer’s
+instructions under Sub-Clause 8.8 [ Suspension of Work ] and/or from resuming the
+work, the Contractor shall give notice to the Engineer and shall be entitled subject toSub-Clause 20.1 [ Contractor’s Claims ] to:8.6
+Rate of Progress
+## 8 7Delay Damages
+## 8 8Suspension of Work
+## 8 9Consequences of
+Suspension
+## 32 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) payment of any such Cost, which shall be included in the Contract Price.
+After receiving this notice, the Engineer shall proceed in accordance with Sub-Clause
+## 3 5 [Determinations ] to agree or determine these matters.
+The Contractor shall not be entitled to an extension of time for, or to payment of the
+Cost incurred in, making good the consequences of the Contractor’s faulty design,workmanship or materials, or of the Contractor’s failure to protect, store or secure inaccordance with Sub-Clause 8.8 [ Suspension of Work ].
+The Contractor shall be entitled to payment of the value (as at the date of suspension)
+of Plant and/or Materials which have not been delivered to Site, if:
+(a) the work on Plant or delivery of Plant and/or Materials has been suspended for
+more than 28 days, and
+(b) the Contractor has marked the Plant and/or Materials as the Employer’s
+property in accordance with the Engineer’s instructions.
+If the suspension under Sub-Clause 8.8 [ Suspension of Work ] has continued for more
+than 84 days, the Contractor may request the Engineer’s permission to proceed. If theEngineer does not give permission within 28 days after being requested to do so, theContractor may, by giving notice to the Engineer, treat the suspension as an omissionunder Clause 13 [ Variations and Adjustments ] of the affected part of the Works. If the
+suspension affects the whole of the Works, the Contractor may give notice oftermination under Sub-Clause 16.2 [ Termination by Contractor ].
+After the permission or instruction to proceed is given, the Contractor and the
+Engineer shall jointly examine the Works and the Plant and Materials affected by thesuspension. The Contractor shall make good any deterioration or defect in or loss ofthe Works or Plant or Materials, which has occurred during the suspension.
+The Contractor shall carry out the Tests on Completion in accordance with this Clauseand Sub-Clause 7.4 [ Testing ], after providing the documents in accordance with sub-
+paragraph (d) of Sub-Clause 4.1 [ Contractor’s General Obligations ].
+The Contractor shall give to the Engineer not less than 21 days’ notice of the date after
+which the Contractor will be ready to carry out each of the Tests on Completion.Unless otherwise agreed, Tests on Completion shall be carried out within 14 days afterthis date, on such day or days as the Engineer shall instruct.
+In considering the results of the Tests on Completion, the Engineer shall make
+allowances for the effect of any use of the Works by the Employer on the performanceor other characteristics of the Works. As soon as the Works, or a Section, havepassed any Tests on Completion, the Contractor shall submit a certified report of theresults of these Tests to the Engineer.8.10
+Payment for Plant and 
+Materials in Event of Suspension
+## 8 11
+Prolonged Suspension
+## 8 12Resumption of Work
+## 9 1
+Contractor’s Obligations9Tests on Completion
+If the Tests on Completion are being unduly delayed by the Employer, Sub-Clause 7.4
+[Testing ] (fifth paragraph) and/or Sub-Clause 10.3 [ Interference with Tests on
+Completion ] shall be applicable.
+If the Tests on Completion are being unduly delayed by the Contractor, the Engineer
+may by notice require the Contractor to carry out the Tests within 21 days afterreceiving the notice. The Contractor shall carry out the Tests on such day or dayswithin that period as the Contractor may fix and of which he shall give notice to theEngineer.
+If the Contractor fails to carry out the Tests on Completion within the period of 21
+days, the Employer’s Personnel may proceed with the Tests at the risk and cost of theContractor. The Tests on Completion shall then be deemed to have been carried outin the presence of the Contractor and the results of the Tests shall be accepted asaccurate.
+If the Works, or a Section, fail to pass the Tests on Completion, Sub-Clause 7.5
+[Rejection ] shall apply, and the Engineer or the Contractor may require the failed Tests,
+and Tests on Completion on any related work, to be repeated under the same termsand conditions.
+If the Works, or a Section, fail to pass the Tests on Completion repeated under Sub-
+Clause 9.3 [ Retesting ], the Engineer shall be entitled to:
+(a) order further repetition of Tests on Completion under Sub-Clause 9.3;
+(b) if the failure deprives the Employer of substantially the whole benefit of the
+Works or Section, reject the Works or Section (as the case may be), in whichevent the Employer shall have the same remedies as are provided in sub-paragraph (c) of Sub-Clause 11.4 [ Failure to Remedy Defects ]; or
+(c) issue a Taking-Over Certificate, if the Employer so requests.
+In the event of sub-paragraph (c), the Contractor shall proceed in accordance with all
+other obligations under the Contract, and the Contract Price shall be reduced by suchamount as shall be appropriate to cover the reduced value to the Employer as a resultof this failure. Unless the relevant reduction for this failure is stated (or its method ofcalculation is defined) in the Contract, the Employer may require the reduction to be(i) agreed by both Parties (in full satisfaction of this failure only) and paid before thisTaking-Over Certificate is issued, or  (ii) determined and paid under Sub-Clause 2.5[Employer’s Claims ] and Sub-Clause 3.5 [ Determinations ].
+Except as stated in Sub-Clause 9.4 [ Failure to Pass Tests on Completion ], the Works
+shall be taken over by the Employer when (i) the Works have been completed inaccordance with the Contract, including the matters described in Sub-Clause 8.2[Time for Completion ] and except as allowed in sub-paragraph (a) below, and (ii) a
+Taking-Over Certificate for the Works has been issued, or is deemed to have beenissued in accordance with this Sub-Clause.
+The Contractor may apply by notice to the Engineer for a Taking-Over Certificate not
+earlier than 14 days before the Works will, in the Contractor’s opinion, be complete9.2
+Delayed Tests
+## 9 3
+Retesting
+## 9 4Failure to Pass Tests on
+Completion
+## 10 1
+Taking Over of the Works and Sections10Employer’s Taking Over
+## 34 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+and ready for taking over. If the Works are divided into Sections, the Contractor may
+similarly apply for a Taking-Over Certificate for each Section.
+The Engineer shall, within 28 days after receiving the Contractor’s application:(a) issue the Taking-Over Certificate to the Contractor, stating the date on which
+the Works or Section were completed in accordance with the Contract, exceptfor any minor outstanding work and defects which will not substantially affectthe use of the Works or Section for their intended purpose (either until or whilstthis work is completed and these defects are remedied); or
+(b) reject the application, giving reasons and specifying the work required to be
+done by the Contractor to enable the Taking-Over Certificate to be issued. TheContractor shall then complete this work before issuing a further notice underthis Sub-Clause.
+If the Engineer fails either to issue the Taking-Over Certificate or to reject the
+Contractor’s application within the period of 28 days, and if the Works or Section (asthe case may be) are substantially in accordance with the Contract, the Taking-OverCertificate shall be deemed to have been issued on the last day of that period.
+The Engineer may, at the sole discretion of the Employer, issue a Taking-Over
+Certificate for any part of the Permanent Works.
+The Employer shall not use any part of the Works (other than as a temporary measure
+which is either specified in the Contract or agreed by both Parties) unless and until theEngineer has issued a Taking-Over Certificate for this part. However, if the Employerdoes use any part of the Works before the Taking-Over Certificate is issued:
+(a) the part which is used shall be deemed to have been taken over as from the
+date on which it is used,
+(b) the Contractor shall cease to be liable for the care of such part as from this
+date, when responsibility shall pass to the Employer, and
+(c) if requested by the Contractor, the Engineer shall issue a Taking-Over
+Certificate for this part.
+After the Engineer has issued a Taking-Over Certificate for a part of the Works, the
+Contractor shall be given the earliest opportunity to take such steps as may benecessary to carry out any outstanding Tests on Completion. The Contractor shallcarry out these Tests on Completion as soon as practicable before the expiry date ofthe relevant Defects Notification Period.
+If the Contractor incurs Cost as a result of the Employer taking over and/or using a
+part of the Works, other than such use as is specified in the Contract or agreed by theContractor, the Contractor shall (i) give notice to the Engineer and  (ii) be entitledsubject to Sub-Clause 20.1 [ Contractor’s Claims ] to payment of any such Cost plus
+profit, which shall be included in the Contract Price. After receiving this notice, theEngineer shall proceed in accordance with Sub-Clause 3.5 [ Determinations ] to agree
+or determine this Cost and profit.
+If a Taking-Over Certificate has been issued for a part of the Works (other than a
+Section), the delay damages thereafter for completion of the remainder of the Worksshall be reduced. Similarly, the delay damages for the remainder of the Section (if any)in which this part is included shall also be reduced. For any period of delay after thedate stated in this Taking-Over Certificate, the proportional reduction in these delaydamages shall be calculated as the proportion which the value of the part so certified10.2
+Taking Over
+of Parts of the Works
+bears to the value of the Works or Section (as the case may be) as a whole. The
+Engineer shall proceed in accordance with Sub-Clause 3.5 [ Determinations ] to agree
+or determine these proportions. The provisions of this paragraph shall only apply tothe daily rate of delay damages under Sub-Clause 8.7 [ Delay Damages ], and shall not
+affect the maximum amount of these damages.
+If the Contractor is prevented, for more than 14 days, from carrying out the Tests on
+Completion by a cause for which the Employer is responsible, the Employer shall bedeemed to have taken over the Works or Section (as the case may be) on the datewhen the Tests on Completion would otherwise have been completed.
+The Engineer shall then issue a Taking-Over Certificate accordingly, and the
+Contractor shall carry out the Tests on Completion as soon as practicable, before theexpiry date of the Defects Notification Period. The Engineer shall require the Tests onCompletion to be carried out by giving 14 days’ notice and in accordance with therelevant provisions of the Contract.
+If the Contractor suffers delay and/or incurs Cost as a result of this delay in carrying
+out the Tests on Completion, the Contractor shall give notice to the Engineer and shallbe entitled subject to Sub-Clause 20.1 [ Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) payment of any such Cost plus profit, which shall be included in the Contract Price.
+After receiving this notice, the Engineer shall proceed in accordance with Sub-Clause
+## 3 5 [Determinations ] to agree or determine these matters.
+Except as otherwise stated in a Taking-Over Certificate, a certificate for a Section or
+part of the Works shall not be deemed to certify completion of any ground or othersurfaces requiring reinstatement.
+In order that the Works and Contractor’s Documents, and each Section, shall be inthe condition required by the Contract (fair wear and tear excepted) by the expiry dateof the relevant Defects Notification Period or as soon as practicable thereafter, theContractor shall:
+(a) complete any work which is outstanding on the date stated in a Taking-Over
+Certificate, within such reasonable time as is instructed by the Engineer, and
+(b) execute all work required to remedy defects or damage, as may be notified by
+(or on behalf of) the Employer on or before the expiry date of the DefectsNotification Period for the Works or Section (as the case may be).
+If a defect appears or damage occurs, the Contractor shall be notified accordingly, by
+(or on behalf of) the Employer.
+All work referred to in sub-paragraph (b) of Sub-Clause 11.1 [ Completion of
+Outstanding Work and Remedying Defects ] shall be executed at the risk and cost of10.3
+Interference with Tests on
+Completion
+## 10 4
+Surfaces Requiring 
+Reinstatement
+## 11 1
+Completion of Outstanding Work and Remedying Defects
+## 11 2
+Cost of Remedying
+Defects11Defects Liability
+## 36 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+the Contractor, if and to the extent that the work is attributable to:
+(a) any design for which the Contractor is responsible,
+(b) Plant, Materials or workmanship not being in accordance with the Contract, or(c) failure by the Contractor to comply with any other obligation.
+If and to the extent that such work is attributable to any other cause, the Contractor
+shall be notified promptly by (or on behalf of) the Employer, and Sub-Clause 13.3[Variation Procedure ] shall apply.
+The Employer shall be entitled subject to Sub-Clause 2.5 [ Employer’s Claims ] to an
+extension of the Defects Notification Period for the Works or a Section if and to theextent that the Works, Section or a major item of Plant (as the case may be, and aftertaking over) cannot be used for the purposes for which they are intended by reasonof a defect or damage. However, a Defects Notification Period shall not be extendedby more than two years.
+If delivery and/or erection of Plant and/or Materials was suspended under Sub-Clause
+## 8 8 [Suspension of Work ] or Sub-Clause 16.1 [ Contractor’s Entitlement to Suspend
+Work ], the Contractor’s obligations under this Clause shall not apply to any defects or
+damage occurring more than two years after the Defects Notification Period for thePlant and/or Materials would otherwise have expired.
+If the Contractor fails to remedy any defect or damage within a reasonable time, a date
+may be fixed by (or on behalf of) the Employer, on or by which the defect or damageis to be remedied. The Contractor shall be given reasonable notice of this date.
+If the Contractor fails to remedy the defect or damage by this notified date and this
+remedial work was to be executed at the cost of the Contractor under Sub-Clause11.2 [ Cost of Remedying Defects ], the Employer may (at his option):
+(a) carry out the work himself or by others, in a reasonable manner and at the
+Contractor’s cost, but the Contractor shall have no responsibility for this work;and the Contractor shall subject to Sub-Clause 2.5 [ Employer’s Claims ] pay to
+the Employer the costs reasonably incurred by the Employer in remedying thedefect or damage;
+(b) require the Engineer to agree or determine a reasonable reduction in the
+Contract Price in accordance with Sub-Clause 3.5 [ Determinations ]; or
+(c) if the defect or damage deprives the Employer of substantially the whole
+benefit of the Works or any major part of the Works, terminate the Contract asa whole, or in respect of such major part which cannot be put to the intendeduse. Without prejudice to any other rights, under the Contract or otherwise,the Employer shall then be entitled to recover all sums paid for the Works orfor such part (as the case may be), plus financing costs and the cost ofdismantling the same, clearing the Site and returning Plant and Materials to theContractor.
+If the defect or damage cannot be remedied expeditiously on the Site and the
+Employer gives consent, the Contractor may remove from the Site for the purposesof repair such items of Plant as are defective or damaged. This consent may requirethe Contractor to increase the amount of the Performance Security by the fullreplacement cost of these items, or to provide other appropriate security.11.3
+Extension of Defects 
+Notification Period
+## 11 4
+Failure to Remedy 
+Defects
+## 11 5
+Removal of Defective 
+Work
+If the work of remedying of any defect or damage may affect the performance of the
+Works, the Engineer may require the repetition of any of the tests described in theContract. The requirement shall be made by notice within 28 days after the defect ordamage is remedied.
+These tests shall be carried out in accordance with the terms applicable to the
+previous tests, except that they shall be carried out at the risk and cost of the Partyliable, under Sub-Clause 11.2 [ Cost of Remedying Defects ], for the cost of the
+remedial work.
+Until the Performance Certificate has been issued, the Contractor shall have such right
+of access to the Works as is reasonably required in order to comply with this Clause,except as may be inconsistent with the Employer’s reasonable security restrictions.
+The Contractor shall, if required by the Engineer, search for the cause of any defect,
+under the direction of the Engineer. Unless the defect is to be remedied at the cost ofthe Contractor under Sub-Clause 11.2 [ Cost of Remedying Defects ], the Cost of the
+search plus profit shall be agreed or determined by the Engineer in accordance withSub-Clause 3.5 [ Determinations ] and shall be included in the Contract Price.
+Performance of the Contractor’s obligations shall not be considered to have been
+completed until the Engineer has issued the Performance Certificate to the Contractor,stating the date on which the Contractor completed his obligations under theContract.
+The Engineer shall issue the Performance Certificate within 28 days after the latest of
+the expiry dates of the Defects Notification Periods, or as soon thereafter as theContractor has supplied all the Contractor’s Documents and completed and tested allthe Works, including remedying any defects. A copy of the Performance Certificateshall be issued to the Employer.
+Only the Performance Certificate shall be deemed to constitute acceptance of the
+Works.
+After the Performance Certificate has been issued, each Party shall remain liable for
+the fulfilment of any obligation which remains unperformed at that time. For thepurposes of determining the nature and extent of unperformed obligations, theContract shall be deemed to remain in force.
+Upon receiving the Performance Certificate, the Contractor shall remove any
+remaining Contractor’s Equipment, surplus material, wreckage, rubbish andTemporary Works from the Site.
+If all these items have not been removed within 28 days after the Employer receives a
+copy of the Performance Certificate, the Employer may sell or otherwise dispose ofany remaining items. The Employer shall be entitled to be paid the costs incurred inconnection with, or attributable to, such sale or disposal and restoring the Site.
+Any balance of the moneys from the sale shall be paid to the Contractor. If these
+moneys are less than the Employer’s costs, the Contractor shall pay the outstandingbalance to the Employer.11.6
+Further Tests
+## 11 7
+Right of Access
+## 11 8Contractor to Search
+## 11 9Performance Certificate
+## 11 10Unfulfilled Obligations
+## 11 11Clearance of Site
+## 38 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+The Works shall be measured, and valued for payment, in accordance with this
+Clause.
+Whenever the Engineer requires any part of the Works to be measured, reasonable
+notice shall be given to the Contractor’s Representative, who shall:
+(a) promptly either attend or send another qualified representative to assist the
+Engineer in making the measurement, and
+(b) supply any particulars requested by the Engineer.
+If the Contractor fails to attend or send a representative, the measurement made by
+(or on behalf of) the Engineer shall be accepted as accurate.
+Except as otherwise stated in the Contract, wherever any Permanent Works are to be
+measured from records, these shall be prepared by the Engineer. The Contractor shall,as and when requested, attend to examine and agree the records with the Engineer,and shall sign the same when agreed. If the Contractor does not attend, the recordsshall be accepted as accurate.
+If the Contractor examines and disagrees the records, and/or does not sign them as
+agreed, then the Contractor shall give notice to the Engineer of the respects in whichthe records are asserted to be inaccurate. After receiving this notice, the Engineershall review the records and either confirm or vary them. If the Contractor does not sogive notice to the Engineer within 14 days after being requested to examine therecords, they shall be accepted as accurate.
+Except as otherwise stated in the Contract and notwithstanding local practice:
+(a) measurement shall be made of the net actual quantity of each item of the
+Permanent Works, and
+(b) the method of measurement shall be in accordance with the Bill of Quantities
+or other applicable Schedules.
+Except as otherwise stated in the Contract, the Engineer shall proceed in accordance
+with Sub-Clause 3.5 [ Determinations ] to agree or determine the Contract Price by
+evaluating each item of work, applying the measurement agreed or determined inaccordance with the above Sub-Clauses 12.1 and 12.2 and the appropriate rate orprice for the item.
+For each item of work, the appropriate rate or price for the item shall be the rate or
+price specified for such item in the Contract or, if there is no such item, specified forsimilar work. 
+Any item of work included in the Bill of Quantities for which no rate or price was
+specified shall be considered as included in other rates and prices in the Bill ofQuantities and will not be paid for separately.
+However, a new rate or price shall be appropriate for an item of work if:12.1
+Works to be Measured
+## 12 2
+Method of Measurement
+## 12 3Evaluation12Measurement and Evaluation
+## 12 4
+Omissions
+## 13 1
+Right to Vary(a) (i) the measured quantity of the item is changed by more than 25% from
+the quantity of this item in the Bill of Quantities or other Schedule,
+(ii) this change in quantity multiplied by such specified rate for this item
+exceeds 0.25% of the Accepted Contract Amount,
+(iii) this change in quantity directly changes the Cost per unit quantity of this
+item by more than 1%, and
+(iv) this item is not specified in the Contract as a “fixed rate item";
+or(b) (i) the work is instructed under Clause 13 [ Variations and Adjustments ],
+(ii) no rate or price is specified in the Contract for this item, and(iii) no specified rate or price is appropriate because the item of work is not
+of similar character, or is not executed under similar conditions, as anyitem in the Contract.
+Each new rate or price shall be derived from any relevant rates or prices in the
+Contract, with reasonable adjustments to take account of the matters described insub-paragraph (a) and/or (b), as applicable. If no rates or prices are relevant for thederivation of a new rate or price, it shall be derived from the reasonable Cost ofexecuting the work, together with profit, taking account of any other relevant matters.
+Until such time as an appropriate rate or price is agreed or determined, the Engineer
+shall determine a provisional rate or price for the purposes of Interim PaymentCertificates.
+Whenever the omission of any work forms part (or all) of a Variation, the value of which
+has not been agreed, if:
+(a) the Contractor will incur (or has incurred) cost which, if the work had not been
+omitted, would have been deemed to be covered by a sum forming part of theAccepted Contract Amount;
+(b) the omission of the work will result (or has resulted) in this sum not forming part
+of the Contract Price; and
+(c) this cost is not deemed to be included in the evaluation of any substituted
+work;
+then the Contractor shall give notice to the Engineer accordingly, with supporting
+particulars. Upon receiving this notice, the Engineer shall proceed in accordance withSub-Clause 3.5 [ Determinations ] to agree or determine this cost, which shall be
+included in the Contract Price.
+Variations may be initiated by the Engineer at any time prior to issuing the Taking-OverCertificate for the Works, either by an instruction or by a request for the Contractor tosubmit a proposal.
+The Contractor shall execute and be bound by each Variation, unless the Contractor
+promptly gives notice to the Engineer stating (with supporting particulars) that theContractor cannot readily obtain the Goods required for the Variation. Upon receiving this notice, the Engineer shall cancel, confirm or vary the instruction.
+Each Variation may include:13Variations and Adjustments
+## 40 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+(a) changes to the quantities of any item of work included in the Contract (however,
+such changes do not necessarily constitute a Variation),
+(b) changes to the quality and other characteristics of any item of work,(c) changes to the levels, positions and/or dimensions of any part of the Works,(d) omission of any work unless it is to be carried out by others,(e) any additional work, Plant, Materials or services necessary for the Permanent
+Works, including any associated Tests on Completion, boreholes and othertesting and exploratory work, or
+(f) changes to the sequence or timing of the execution of the Works.
+The Contractor shall not make any alteration and/or modification of the Permanent
+Works, unless and until the Engineer instructs or approves a Variation.
+The Contractor may, at any time, submit to the Engineer a written proposal which (in
+the Contractor’s opinion) will, if adopted, (i) accelerate completion, (ii) reduce the costto the Employer of executing, maintaining or operating the Works, (iii) improve theefficiency or value to the Employer of the completed Works, or (iv) otherwise be ofbenefit to the Employer.
+The proposal shall be prepared at the cost of the Contractor and shall include the
+items listed in Sub-Clause 13.3 [ Variation Procedure ].
+If a proposal, which is approved by the Engineer, includes a change in the design of
+part of the Permanent Works, then unless otherwise agreed by both Parties:
+(a) the Contractor shall design this part,
+(b) sub-paragraphs (a) to (d) of Sub-Clause 4.1 [ Contractor’s General Obligations ]
+shall apply, and
+(c) if this change results in a reduction in the contract value of this part, the
+Engineer shall proceed in accordance with Sub-Clause 3.5 [ Determinations ] to
+agree or determine a fee, which shall be included in the Contract Price. This feeshall be half (50%) of the difference between the following amounts:
+(i) such reduction in contract value, resulting from the change, excluding
+adjustments under Sub-Clause 13.7 [ Adjustments for Changes in
+Legislation ] and Sub-Clause 13.8 [ Adjustments for Changes in Cost ],
+and
+(ii) the reduction (if any) in the value to the Employer of the varied works,
+taking account of any reductions in quality, anticipated life or operationalefficiencies.
+However, if amount (i) is less than amount (ii), there shall not be a fee.
+If the Engineer requests a proposal, prior to instructing a Variation, the Contractor shall
+respond in writing as soon as practicable, either by giving reasons why he cannotcomply (if this is the case) or by submitting:
+(a) a description of the proposed work to be performed and a programme for its
+execution,
+(b) the Contractor’s proposal for any necessary modifications to the programme
+according to Sub-Clause 8.3 [ Programme ] and to the Time for Completion, and
+(c) the Contractor’s proposal for evaluation of the Variation.
+The Engineer shall, as soon as practicable after receiving such proposal (under Sub-13.2
+Value Engineering
+## 13 3Variation Procedure
+Clause 13.2 [ Value Engineering ] or otherwise), respond with approval, disapproval or
+comments. The Contractor shall not delay any work whilst awaiting a response.
+Each instruction to execute a Variation, with any requirements for the recording of Costs,
+shall be issued by the Engineer to the Contractor, who shall acknowledge receipt.
+Each Variation shall be evaluated in accordance with Clause 12 [ Measurement and
+Evaluation ], unless the Engineer instructs or approves otherwise in accordance with
+this Clause.
+If the Contract provides for payment of the Contract Price in more than one currency,
+then whenever an adjustment is agreed, approved or determined as stated above, theamount payable in each of the applicable currencies shall be specified. For thispurpose, reference shall be made to the actual or expected currency proportions ofthe Cost of the varied work, and to the proportions of various currencies specified forpayment of the Contract Price.
+Each Provisional Sum shall only be used, in whole or in part, in accordance with the
+Engineer’s instructions, and the Contract Price shall be adjusted accordingly. The totalsum paid to the Contractor shall include only such amounts, for the work, supplies orservices to which the Provisional Sum relates, as the Engineer shall have instructed.For each Provisional Sum, the Engineer may instruct:
+(a) work to be executed (including Plant, Materials or services to be supplied) by the
+Contractor and valued under Sub-Clause 13.3 [ Variation Procedure ]; and/or
+(b) Plant, Materials or services to be purchased by the Contractor, from a
+nominated Subcontractor (as defined in Clause 5 [ Nominated Subcontractors ]
+or otherwise; and for which there shall be included in the Contract Price:
+(i) the actual amounts paid (or due to be paid) by the Contractor, and
+(ii) a sum for overhead charges and profit, calculated as a percentage of
+these actual amounts by applying the relevant percentage rate (if any)stated in the appropriate Schedule. If there is no such rate, thepercentage rate stated in the Contract Data shall be applied.
+The Contractor shall, when required by the Engineer, produce quotations, invoices,
+vouchers and accounts or receipts in substantiation.
+For work of a minor or incidental nature, the Engineer may instruct that a Variation shall
+be executed on a daywork basis. The work shall then be valued in accordance with theDaywork Schedule included in the Contract, and the following procedure shall apply. Ifa Daywork Schedule is not included in the Contract, this Sub-Clause shall not apply.
+Before ordering Goods for the work, the Contractor shall submit quotations to the
+Engineer. When applying for payment, the Contractor shall submit invoices, vouchersand accounts or receipts for any Goods.
+Except for any items for which the Daywork Schedule specifies that payment is not
+due, the Contractor shall deliver each day to the Engineer accurate statements induplicate which shall include the following details of the resources used in executingthe previous day’s work:
+(a) the names, occupations and time of Contractor’s Personnel,13.4
+Payment in Applicable 
+Currencies
+## 13 5
+Provisional Sums
+## 13 6Daywork
+## 42 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+(b) the identification, type and time of Contractor’s Equipment and Temporary
+Works, and
+(c) the quantities and types of Plant and Materials used.
+One copy of each statement will, if correct, or when agreed, be signed by the Engineer
+and returned to the Contractor. The Contractor shall then submit priced statements ofthese resources to the Engineer, prior to their inclusion in the next Statement underSub-Clause 14.3 [ Application for Interim Payment Certificates ].
+The Contract Price shall be adjusted to take account of any increase or decrease in
+Cost resulting from a change in the Laws of the Country (including the introduction ofnew Laws and the repeal or modification of existing Laws) or in the judicial or officialgovernmental interpretation of such Laws, made after the Base Date, which affect theContractor in the performance of obligations under the Contract.
+If the Contractor suffers (or will suffer) delay and/or incurs (or will incur) additional Cost
+as a result of these changes in the Laws or in such interpretations, made after theBase Date, the Contractor shall give notice to the Engineer and shall be entitledsubject to Sub-Clause 20.1 [ Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) payment of any such Cost, which shall be included in the Contract Price.
+After receiving this notice, the Engineer shall proceed in accordance with Sub-Clause
+## 3 5 [Determinations ] to agree or determine these matters.
+Notwithstanding the foregoing, the Contractor shall not be entitled to such an
+extension of time if the same shall already have been taken into account indetermining an extension and such Cost shall not be separately paid if the same shallalready have been taken into account in the indexing of any inputs to the table ofadjustment data in accordance with the provisions of Sub-Clause 13.8.
+In this Sub-Clause, “table of adjustment data” means the completed table of
+adjustment data for local and foreign currencies included in the Schedules. If there isno such table of adjustment data, this Sub-Clause shall not apply.
+If this Sub-Clause applies, the amounts payable to the Contractor shall be adjusted
+for rises or falls in the cost of labour, Goods and other inputs to the Works, by theaddition or deduction of the amounts determined by the formulae prescribed in thisSub-Clause. To the extent that full compensation for any rise or fall in Costs is notcovered by the provisions of this or other Clauses, the Accepted Contract Amountshall be deemed to have included amounts to cover the contingency of other rises andfalls in costs.
+The adjustment to be applied to the amount otherwise payable to the Contractor, as
+valued in accordance with the appropriate Schedule and certified in PaymentCertificates, shall be determined from formulae for each of the currencies in which theContract Price is payable. No adjustment is to be applied to work valued on the basisof Cost or current prices. The formulae shall be of the following general type:
+Pn  = a+  bL
+n+  cEn+  dMn+  ......
+Lo Eo Mo
+where:13.7
+Adjustments for
+Changes in Legislation
+## 13 8
+Adjustments for
+Changes in Cost
+“Pn” is the adjustment multiplier to be applied to the estimated contract value
+in the relevant currency of the work carried out in period “n”, this period beinga month unless otherwise stated in the Contract Data;
+“a” is a fixed coefficient, stated in the relevant table of adjustment data,
+representing the non-adjustable portion in contractual payments;
+“b”, “c”, “d”, … are coefficients representing the estimated proportion of each
+cost element related to the execution of the Works, as stated in the relevanttable of adjustment data; such tabulated cost elements may be indicative ofresources such as labour, equipment and materials;
+“Ln”, “En”, “Mn”, …  are the current cost indices or reference prices for period
+“n”, expressed in the relevant currency of payment, each of which is applicableto the relevant tabulated cost element on the date 49 days prior to the last dayof the period (to which the particular Payment Certificate relates);  and
+“Lo”, “Eo”, “Mo”, … are the base cost indices or reference prices, expressed
+in the relevant currency of payment, each of which is applicable to the relevanttabulated cost element on the Base Date.
+The cost indices or reference prices stated in the table of adjustment data shall be
+used. If their source is in doubt, it shall be determined by the Engineer. For thispurpose, reference shall be made to the values of the indices at stated dates for thepurposes of clarification of the source; although these dates (and thus these values)may not correspond to the base cost indices.
+In cases where the “currency of index” is not the relevant currency of payment, each
+index shall be converted into the relevant currency of payment at the selling rate,established by the central bank of the Country, of this relevant currency on the abovedate for which the index is required to be applicable.
+Until such time as each current cost index is available, the Engineer shall determine a
+provisional index for the issue of Interim Payment Certificates. When a current costindex is available, the adjustment shall be recalculated accordingly.
+If the Contractor fails to complete the Works within the Time for Completion,
+adjustment of prices thereafter shall be made using either (i) each index or priceapplicable on the date 49 days prior to the expiry of the Time for Completion of theWorks, or (ii) the current index or price: whichever is more favourable to theEmployer.
+The weightings (coefficients) for each of the factors of cost stated in the table(s) of
+adjustment data shall only be adjusted if they have been rendered unreasonable,unbalanced or inapplicable, as a result of Variations.
+Unless otherwise stated in the Particular Conditions:
+(a) the Contract Price shall be agreed or determined under Sub-Clause 12.3
+[Evaluation ] and be subject to adjustments in accordance with the Contract;
+(b) the Contractor shall pay all taxes, duties and fees required to be paid by him14.1
+The Contract Price14Contract Price and Payment
+## 44 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+under the Contract, and the Contract Price shall not be adjusted for any of
+these costs except as stated in Sub-Clause 13.7 [ Adjustments for Changes in
+Legislation ];
+(c) any quantities which may be set out in the Bill of Quantities or other Schedule
+are estimated quantities and are not to be taken as the actual and correctquantities:
+(i) of the Works which the Contractor is required to execute, or
+(ii) for the purposes of Clause 12 [ Measurement and Evaluation ]; and
+(d) the Contractor shall submit to the Engineer, within 28 days after the
+Commencement Date, a proposed breakdown of each lump sum price in theSchedules. The Engineer may take account of the breakdown when preparingPayment Certificates, but shall not be bound by it.
+(e) Notwithstanding the provisions of subparagraph (b), Contractor’s Equipment,
+including essential spare parts therefor, imported by the Contractor for the solepurpose of executing the Contract shall be exempt from the payment of importduties and taxes upon importation.
+The Employer shall make an advance payment, as an interest-free loan for
+mobilisation, when the Contractor submits a guarantee in accordance with this Sub-Clause. The total advance payment, the number and timing of instalments (if morethan one), and the applicable currencies and proportions, shall be as stated in theContract Data.
+Unless and until the Employer receives this guarantee, or if the total advance payment
+is not stated in the Contract Data, this Sub-Clause shall not apply.
+The Engineer shall issue an Interim Payment Certificate for the first instalment after
+receiving a Statement (under Sub-Clause 14.3 [ Application for Interim Payment
+Certificates ]) and after the Employer receives (i) the Performance Security in
+accordance with Sub-Clause 4.2 [ Performance Security ]  and (ii) a guarantee in
+amounts and currencies equal to the advance payment. This guarantee shall beissued by an entity and from within a country (or other jurisdiction) approved by theEmployer, and shall be in the form annexed to the Particular Conditions or in anotherform approved by the Employer.
+The Contractor shall ensure that the guarantee is valid and enforceable until the
+advance payment has been repaid, but its amount may be progressively reduced bythe amount repaid by the Contractor as indicated in the Payment Certificates. If theterms of the guarantee specify its expiry date, and the advance payment has not beenrepaid by the date 28 days prior to the expiry date, the Contractor shall extend thevalidity of the guarantee until the advance payment has been repaid.
+Unless stated otherwise in the Contract Data, the advance payment shall be repaid
+through percentage deductions from the interim payments determined by the Engineerin accordance with Sub-Clause 14.6 [ Issue of Interim Payment Certificates ], as follows:
+(a) deductions shall commence in the next interim Payment Certificate following
+that in which the total of all certified interim payments (excluding the advancepayment and deductions and repayments of retention) exceeds 30 percent ofthe Accepted Contract Amount less Provisional Sums; and
+(b) deductions shall be made at the amortisation rate stated in the Contract Data
+of the amount of each Interim Payment Certificate (excluding the advancepayment and deductions and repayments of retention) in the currencies and14.2
+Advance Payment
+proportions of the advance payment until such time as the advance payment
+has been repaid; provided that the advance payment shall be completely repaidprior to the time when 80 percent of the Accepted Contract Amount lessProvisional Sums has been certified for payment.
+If the advance payment has not been repaid prior to the issue of the Taking-Over
+Certificate for the Works or prior to termination under Clause 15 [ Termination by
+Employer ], Clause 16 [ Suspension and Termination by Contractor ] or Clause 19
+[Force Majeure ] (as the case may be), the whole of the balance then outstanding shall
+immediately become due and payable by the Contractor to the Employer.
+The Contractor shall submit a Statement in six copies to the Engineer after the end of
+each month, in a form approved by the Engineer, showing in detail the amounts towhich the Contractor considers himself to be entitled, together with supportingdocuments which shall include the report on the progress during this month inaccordance with Sub-Clause 4.21 [ Progress Reports ].
+The Statement shall include the following items, as applicable, which shall be
+expressed in the various currencies in which the Contract Price is payable, in thesequence listed:
+(a) the estimated contract value of the Works executed and the Contractor’s
+Documents produced up to the end of the month (including Variations butexcluding items described in sub-paragraphs (b) to (g) below);
+(b) any amounts to be added and deducted for changes in legislation and changes
+in cost, in accordance with Sub-Clause 13.7 [ Adjustments for Changes in
+Legislation ] and Sub-Clause 13.8 [ Adjustments for Changes in Cost ];
+(c) any amount to be deducted for retention, calculated by applying the
+percentage of retention stated in the Contract Data to the total of the aboveamounts, until the amount so retained by the Employer reaches the limit ofRetention Money (if any) stated in the Contract Data;
+(d) any amounts to be added and deducted for the advance payment and
+repayments in accordance with Sub-Clause 14.2 [ Advance Payment ];
+(e) any amounts to be added and deducted for Plant and Materials in accordance
+with Sub-Clause 14.5 [ Plant and Materials intended for the Works ];
+(f) any other additions or deductions which may have become due under the
+Contract or otherwise, including those under Clause 20 [ Claims, Disputes and
+Arbitration ]; and
+(g) the deduction of amounts certified in all previous Payment Certificates.
+If the Contract includes a schedule of payments specifying the instalments in which
+the Contract Price will be paid, then unless otherwise stated in this schedule:
+(a) the instalments quoted in this schedule of payments shall be the estimated
+contract values for the purposes of sub-paragraph (a) of Sub-Clause 14.3[Application for Interim Payment Certificates ];
+(b) Sub-Clause 14.5 [ Plant and Materials intended for the Works ] shall not apply; and
+(c) if these instalments are not defined by reference to the actual progress
+achieved in executing the Works, and if actual progress is found to be lessthan that on which this schedule of payments was based, then the Engineermay proceed in accordance with Sub-Clause 3.5 [ Determinations ] to agree
+or determine revised instalments, which shall take account of the extent towhich progress is less than that on which the instalments were previouslybased.14.3
+Application for Interim 
+Payment Certificates
+## 14 4
+Schedule of Payments
+## 46 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+If the Contract does not include a schedule of payments, the Contractor shall submit
+non-binding estimates of the payments which he expects to become due during eachquarterly period. The first estimate shall be submitted within 42 days after theCommencement Date. Revised estimates shall be submitted at quarterly intervals,until the Taking-Over Certificate has been issued for the Works.
+If this Sub-Clause applies, Interim Payment Certificates shall include, under sub-
+paragraph (e) of Sub-Clause 14.3, (i) an amount for Plant and Materials which havebeen sent to the Site for incorporation in the Permanent Works, and (ii) a reductionwhen the contract value of such Plant and Materials is included as part of thePermanent Works under sub-paragraph (a) of Sub-Clause 14.3 [ Application for
+Interim Payment Certificate s].
+If the lists referred to in sub-paragraphs (b)(i) or (c)(i) below are not included in the
+Contract Data, this Sub-Clause shall not apply.
+The Engineer shall determine and certify each addition if the following conditions are
+satisfied:
+(a) the Contractor has:
+(i) kept satisfactory records (including the orders, receipts, Costs and use
+of Plant and Materials) which are available for inspection, and
+(ii) submitted a statement of the Cost of acquiring and delivering the Plant
+and Materials to the Site, supported by satisfactory evidence;
+and either:
+(b) the relevant Plant and Materials:
+(i) are those listed in the Schedules for payment when shipped,
+(ii) have been shipped to the Country, en route to the Site, in accordance
+with the Contract; and
+(iii) are described in a clean shipped bill of lading or other evidence of
+shipment, which has been submitted to the Engineer together withevidence of payment of freight and insurance, any other documentsreasonably required, and a bank guarantee in a form and issued by anentity approved by the Employer in amounts and currencies equal to theamount due under this Sub-Clause: this guarantee may be in a similarform to the form referred to in Sub-Clause 14.2 [ Advance Payment ] and
+shall be valid until the Plant and Materials are properly stored on Site andprotected against loss, damage or deterioration;
+or
+(c) the relevant Plant and Materials:
+(i) are those listed in the Schedules for payment when delivered to the Site,
+and
+(ii) have been delivered to and are properly stored on the Site, are protected
+against loss, damage or deterioration, and appear to be in accordancewith the Contract.
+The additional amount to be certified shall be the equivalent of eighty percent of the
+Engineer’s determination of the cost of the Plant and Materials (including delivery toSite), taking account of the documents mentioned in this Sub-Clause and of thecontract value of the Plant and Materials.14.5
+Plant and Materials 
+intended for the Works
+The currencies for this additional amount shall be the same as those in which payment
+will become due when the contract value is included under sub-paragraph (a) of Sub-Clause 14.3 [ Application for Interim Payment Certificates ]. At that time, the Payment
+Certificate shall include the applicable reduction which shall be equivalent to, and inthe same currencies and proportions as, this additional amount for the relevant Plantand Materials.
+No amount will be certified or paid until the Employer has received and approved the
+Performance Security. Thereafter, the Engineer shall, within 28 days after receiving aStatement and supporting documents, issue to the Employer an Interim PaymentCertificate which shall state the amount which the Engineer fairly determines to bedue, with supporting particulars.
+However, prior to issuing the Taking-Over Certificate for the Works, the Engineer shall
+not be bound to issue an Interim Payment Certificate in an amount which would (afterretention and other deductions) be less than the minimum amount of Interim PaymentCertificates (if any) stated in the Contract Data. In this event, the Engineer shall givenotice to the Contractor accordingly.
+An Interim Payment Certificate shall not be withheld for any other reason, although:(a) if any thing supplied or work done by the Contractor is not in accordance with
+the Contract, the cost of rectification or replacement may be withheld untilrectification or replacement has been completed; and/or
+(b) if the Contractor was or is failing to perform any work or obligation in
+accordance with the Contract, and had been so notified by the Engineer, thevalue of this work or obligation may be withheld until the work or obligation hasbeen performed.
+The Engineer may in any Payment Certificate make any correction or modification that
+should properly be made to any previous Payment Certificate. A Payment Certificate shallnot be deemed to indicate the Engineer’s acceptance, approval, consent or satisfaction.
+The Employer shall pay to the Contractor:
+(a) the first instalment of the advance payment within 42 days after issuing the
+Letter of Acceptance or within 21 days after receiving the documents inaccordance with Sub-Clause 4.2 [ Performance Security ] and Sub-Clause 14.2
+[Advance Payment ], whichever is later;
+(b) the amount certified in each Interim Payment Certificate within 56 days after the
+Engineer receives the Statement and supporting documents or, at a time whenthe Bank’s loan or credit (from which part of the payments to the Contractor isbeing made) is suspended, the amount shown on any statement submitted bythe Contractor, within 14 days after such statement is submitted. Anydiscrepancy shall be rectified in the next payment to the Contractor; and
+(c) the amount certified in the Final Payment Certificate within 56 days after the
+Employer receives this Payment Certificate or, at a time when the Bank’s loan orcredit (from which part of the payments to the Contractor is being made) issuspended, the undisputed amount shown in the Final Statement, within 56 daysafter the date of notification of the suspension in accordance with Sub-Clause 16.2.
+Payment of the amount due in each currency shall be made into the bank account,
+nominated by the Contractor, in the payment country (for this currency) specified inthe Contract.14.6
+Issue of Interim Payment 
+Certificates
+## 14 7
+Payment
+## 48 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+If the Contractor does not receive payment in accordance with Sub-Clause 14.7
+[Payment ], the Contractor shall be entitled to receive financing charges compounded
+monthly on the amount unpaid during the period of delay. This period shall be deemedto commence on the date for payment specified in Sub-Clause 14.7 [ Payment ],
+irrespective (in the case of its sub-paragraph (b)) of the date on which any InterimPayment Certificate is issued.
+Unless otherwise stated in the Particular Conditions, these financing charges shall be
+calculated at the annual rate of three percentage points above the discount rate of thecentral bank in the country of the currency of payment, and shall be paid in such currency.
+The Contractor shall be entitled to this payment without formal notice or certification,
+and without prejudice to any other right or remedy.
+When the Taking-Over Certificate has been issued for the Works, the first half of the
+Retention Money shall be certified by the Engineer for payment to the Contractor. If aTaking-Over Certificate is issued for a Section or part of the Works, a proportion of theRetention Money shall be certified and paid. This proportion shall be two-fifths (40%)of the proportion calculated by dividing the estimated contract value of the Section orpart, by the estimated final Contract Price.
+Promptly after the latest of the expiry dates of the Defects Notification Periods, the
+outstanding balance of the Retention Money shall be certified by the Engineer forpayment to the Contractor. If a Taking-Over Certificate was issued for a Section, aproportion of the second half of the Retention Money shall be certified and paidpromptly after the expiry date of the Defects Notification Period for the Section. Thisproportion shall be two-fifths (40%) of the proportion calculated by dividing theestimated contract value of the Section by the estimated final Contract Price.
+However, if any work remains to be executed under Clause 11 [ Defects Liability ], the
+Engineer shall be entitled to withhold certification of the estimated cost of this workuntil it has been executed.
+When calculating these proportions, no account shall be taken of any adjustments
+under Sub-Clause 13.7 [ Adjustments for Changes in Legislation ] and Sub-Clause
+## 13 8 [ Adjustments for Changes in Cost ].
+Unless otherwise stated in the Particular Conditions, when the Taking-Over Certificate
+has been issued for the Works and the first half of the Retention Money has beencertified for payment by the Engineer, the Contractor shall be entitled to substitute aguarantee, in the form annexed to the Particular Conditions or in another form approvedby the Employer and provided by an entity approved by the Employer, for the secondhalf of the Retention Money. The Contractor shall ensure that the guarantee is in theamounts and currencies of the second half of the Retention Money and is valid andenforceable until the Contractor has executed and completed the Works and remediedany defects, as specified for the Performance Security in Sub-Clause 4.2. On receipt bythe Employer of the required guarantee, the Engineer shall certify and the Employer shallpay the second half of the Retention Money. The release of the second half of theRetention Money against a guarantee shall then be in lieu of the release under thesecond paragraph of this Sub-Clause. The Employer shall return the guarantee to theContractor within 21 days after receiving a copy of the Performance Certificate.
+If the Performance Security required under Sub-Clause 4.2 is in the form of a demand
+guarantee, and the amount guaranteed under it when the Taking-Over Certificate isissued is more than half of the Retention Money, then the Retention Money guarantee14.8
+Delayed Payment
+## 14 9
+Payment of Retention 
+Money
+will not be required. If the amount guaranteed under the Performance Security when
+the Taking-Over Certificate is issued is less than half of the Retention Money, theRetention Money guarantee will only be required for the difference between half of theRetention Money and the amount guaranteed under the Performance Security.
+Within 84 days after receiving the Taking-Over Certificate for the Works, the
+Contractor shall submit to the Engineer six copies of a Statement at completion withsupporting documents, in accordance with Sub-Clause 14.3 [ Application for Interim
+Payment Certificates ], showing:
+(a) the value of all work done in accordance with the Contract up to the date stated
+in the Taking-Over Certificate for the Works,
+(b) any further sums which the Contractor considers to be due, and(c) an estimate of any other amounts which the Contractor considers will become
+due to him under the Contract. Estimated amounts shall be shown separatelyin this Statement at completion.
+The Engineer shall then certify in accordance with Sub-Clause 14.6 [ Issue of Interim
+Payment Certificates ].
+Within 56 days after receiving the Performance Certificate, the Contractor shall
+submit, to the Engineer, six copies of a draft final statement with supportingdocuments showing in detail in a form approved by the Engineer:
+(a) the value of all work done in accordance with the Contract, and
+(b) any further sums which the Contractor considers to be due to him under the
+Contract or otherwise.
+If the Engineer disagrees with or cannot verify any part of the draft final statement, the
+Contractor shall submit such further information as the Engineer may reasonablyrequire and shall make such changes in the draft as may be agreed between them. TheContractor shall then prepare and submit to the Engineer the final statement as agreed.This agreed statement is referred to in these Conditions as the “Final Statement".
+However if, following discussions between the Engineer and the Contractor and any
+changes to the draft final statement which are agreed, it becomes evident that adispute exists, the Engineer shall deliver to the Employer (with a copy to theContractor) an Interim Payment Certificate for the agreed parts of the draft finalstatement. Thereafter, if the dispute is finally resolved under Sub-Clause 20.4[Obtaining Dispute Board’s Decision ] or Sub-Clause 20.5 [ Amicable Settlement ], the
+Contractor shall then prepare and submit to the Employer (with a copy to theEngineer) a Final Statement.
+When submitting the Final Statement, the Contractor shall submit a discharge which
+confirms that the total of the Final Statement represents full and final settlement of allmoneys due to the Contractor under or in connection with the Contract. Thisdischarge may state that it becomes effective when the Contractor has received thePerformance Security and the outstanding balance of this total, in which event thedischarge shall be effective on such date.
+Within 28 days after receiving the Final Statement and discharge in accordance with
+Sub-Clause 14.11 [ Application for Final Payment Certificate ] and Sub-Clause 14.1214.10
+Statement at Completion
+## 14 11Application for Final
+Payment Certificate
+## 14 12
+Discharge
+## 14 13Issue of Final Payment
+Certificate
+## 50 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+[Discharge ], the Engineer shall issue, to the Employer, the Final Payment Certificate
+which shall state:
+(a) the amount which he fairly determines is finally due, and
+(b) after giving credit to the Employer for all amounts previously paid by the
+Employer and for all sums to which the Employer is entitled, the balance (if any)due from the Employer to the Contractor or from the Contractor to theEmployer, as the case may be.
+If the Contractor has not applied for a Final Payment Certificate in accordance with
+Sub-Clause 14.11 [ Application for Final Payment Certificate ] and Sub-Clause 14.12
+[Discharge ], the Engineer shall request the Contractor to do so. If the Contractor fails
+to submit an application within a period of 28 days, the Engineer shall issue the FinalPayment Certificate for such amount as he fairly determines to be due.
+The Employer shall not be liable to the Contractor for any matter or thing under or in
+connection with the Contract or execution of the Works, except to the extent that theContractor shall have included an amount expressly for it:
+(a) in the Final Statement and also
+(b) (except for matters or things arising after the issue of the Taking-Over Certificate
+for the Works) in the Statement at completion described in Sub-Clause 14.10[Statement at Completion ].
+However, this Sub-Clause shall not limit the Employer’s liability under his
+indemnification obligations, or the Employer’s liability in any case of fraud, deliberatedefault or reckless misconduct by the Employer.
+The Contract Price shall be paid in the currency or currencies named in the Schedule
+of Payment Currencies. If more than one currency is so named, payments shall bemade as follows:
+(a) if the Accepted Contract Amount was expressed in Local Currency only:
+(i) the proportions or amounts of the Local and Foreign Currencies, and the
+fixed rates of exchange to be used for calculating the payments, shall beas stated in the Schedule of Payment Currencies, except as otherwiseagreed by both Parties;
+(ii) payments and deductions under Sub-Clause 13.5 [ Provisional Sums ]
+and Sub-Clause 13.7 [ Adjustments for Changes in Legislation ] shall be
+made in the applicable currencies and proportions; and
+(iii) other payments and deductions under sub-paragraphs (a) to (d) of Sub-
+Clause 14.3 [ Application for Interim Payment Certificates ] shall be made
+in the currencies and proportions specified in sub-paragraph (a)(i) above;
+(b) payment of the damages specified in the Contract Data, shall be made in the
+currencies and proportions specified in the Schedule of Payment currencies;
+(c) other payments to the Employer by the Contractor shall be made in the
+currency in which the sum was expended by the Employer, or in such currencyas may be agreed by both Parties;
+(d) if any amount payable by the Contractor to the Employer in a particular
+currency exceeds the sum payable by the Employer to the Contractor in thatcurrency, the Employer may recover the balance of this amount from the sumsotherwise payable to the Contractor in other currencies; and14.14
+Cessation of Employer’s 
+Liability
+## 14 15
+Currencies of Payment
+(e) if no rates of exchange are stated in the Schedule of Payment Currencies, they
+shall be those prevailing on the Base Date and determined by the central bankof the Country.
+If the Contractor fails to carry out any obligation under the Contract, the Engineer mayby notice require the Contractor to make good the failure and to remedy it within aspecified reasonable time.
+The Employer shall be entitled to terminate the Contract if the Contractor:
+(a) fails to comply with Sub-Clause 4.2 [ Performance Security ] or with a notice
+under Sub-Clause 15.1 [ Notice to Correct ],
+(b) abandons the Works or otherwise plainly demonstrates the intention not to
+continue performance of his obligations under the Contract,
+(c) without reasonable excuse fails:
+(i) to proceed with the Works in accordance with Clause 8
+[Commencement, Delays and Suspension ], or
+(ii) to comply with a notice issued under Sub-Clause 7.5 [ Rejection ] or Sub-
+Clause 7.6 [ Remedial Work ], within 28 days after receiving it,
+(d) subcontracts the whole of the Works or assigns the Contract without the
+required agreement,
+(e) becomes bankrupt or insolvent, goes into liquidation, has a receiving or
+administration order made against him, compounds with his creditors, orcarries on business under a receiver, trustee or manager for the benefit of hiscreditors, or if any act is done or event occurs which (under applicable Laws)has a similar effect to any of these acts or events, or
+(f) gives or offers to give (directly or indirectly) to any person any bribe, gift, gratuity,
+commission or other thing of value, as an inducement or reward:
+(i) for doing or forbearing to do any action in relation to the Contract, or
+(ii) for showing or forbearing to show favour or disfavour to any person in
+relation to the Contract,
+or if any of the Contractor’s Personnel, agents or Subcontractors gives or offers
+to give (directly or indirectly) to any person any such inducement or reward asis described in this sub-paragraph (f). However, lawful inducements andrewards to Contractor’s Personnel shall not entitle termination.
+In any of these events or circumstances, the Employer may, upon giving 14 days’
+notice to the Contractor, terminate the Contract and expel the Contractor from theSite. However, in the case of sub-paragraph (e) or (f), the Employer may by noticeterminate the Contract immediately.
+The Employer’s election to terminate the Contract shall not prejudice any other rights
+of the Employer, under the Contract or otherwise.
+The Contractor shall then leave the Site and deliver any required Goods, all
+Contractor’s Documents, and other design documents made by or for him, to the15.1
+Notice to Correct
+## 15 2
+Termination by Employer15Termination by Employer
+## 52 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+Engineer. However, the Contractor shall use his best efforts to comply immediately
+with any reasonable instructions included in the notice (i) for the assignment of anysubcontract, and (ii) for the protection of life or property or for the safety of the Works.
+After termination, the Employer may complete the Works and/or arrange for any other
+entities to do so. The Employer and these entities may then use any Goods,Contractor’s Documents and other design documents made by or on behalf of theContractor.
+The Employer shall then give notice that the Contractor’s Equipment and Temporary
+Works will be released to the Contractor at or near the Site. The Contractor shallpromptly arrange their removal, at the risk and cost of the Contractor. However, if bythis time the Contractor has failed to make a payment due to the Employer, theseitems may be sold by the Employer in order to recover this payment. Any balance ofthe proceeds shall then be paid to the Contractor.
+As soon as practicable after a notice of termination under Sub-Clause 15.2
+[Termination by Employer ] has taken effect, the Engineer shall proceed in accordance
+with Sub-Clause 3.5 [ Determinations ] to agree or determine the value of the Works,
+Goods and Contractor’s Documents, and any other sums due to the Contractor forwork executed in accordance with the Contract.
+After a notice of termination under Sub-Clause 15.2 [ Termination by Employer ] has
+taken effect, the Employer may:
+(a) proceed in accordance with Sub-Clause 2.5 [ Employer’s Claims ],
+(b) withhold further payments to the Contractor until the costs of execution,
+completion and remedying of any defects, damages for delay in completion (ifany), and all other costs incurred by the Employer, have been established,and/or
+(c) recover from the Contractor any losses and damages incurred by the Employer
+and any extra costs of completing the Works, after allowing for any sum due tothe Contractor under Sub-Clause 15.3 [ Valuation at Date of Termination ]. After
+recovering any such losses, damages and extra costs, the Employer shall payany balance to the Contractor.
+The Employer shall be entitled to terminate the Contract, at any time for the
+Employer’s convenience, by giving notice of such termination to the Contractor. Thetermination shall take effect 28 days after the later of the dates on which theContractor receives this notice or the Employer returns the Performance Security. TheEmployer shall not terminate the Contract under this Sub-Clause in order to executethe Works himself or to arrange for the Works to be executed by another contractoror to avoid a termination of the Contract by the Contractor under Clause 16.2[Termination by Contractor ].
+After this termination, the Contractor shall proceed in accordance with Sub-Clause
+## 16 3 [ Cessation of Work and Removal of Contractor’s Equipment ] and shall be paid
+in accordance with Sub-Clause 19.6 [ Optional Termination, Payment and Release ].
+If the Employer determines that the Contractor has engaged in corrupt, fraudulent,
+collusive or coercive practices, in competing for or in executing the Contract, then theEmployer may, after giving 14 days notice to the Contractor, terminate the15.3
+Valuation at Date of 
+Termination
+## 15 4
+Payment after 
+Termination
+## 15 5
+Employer’s Entitlement
+to Termination forConvenience
+## 15 6
+Corrupt or Fraudulent
+Practices
+Contractor’s employment under the Contract and expel him from the Site, and the
+provisions of Clause 15 shall apply as if such expulsion had been made under Sub-Clause 15.2. 
+For the purposes of this Sub-Clause: (a) “corrupt practice” means the offering, giving, receiving or soliciting of any thing
+of value to influence the action of a public official in the procurement process orin the Contract execution.
+(b) “fraudulent practice” means a misrepresentation of facts in order to influence a
+procurement process or the execution of the Contract to the detriment of theBorrower, and includes collusive practice among Bidders (prior to or after bidsubmission) designed to establish bid prices at artificial non-competitive levelsand to deprive the Borrower of the benefits of free and open competition.
+(c) “collusive practice” means a scheme or arrangement between two or more
+bidders, with or without the knowledge of the Borrower, designed to establishbid prices at artificial, non-competitive levels.
+(d) “coercive practice” means harming or threatening to harm, directly or indirectly,
+persons or their property to influence their participation in the procurementprocess or affect the execution of a contract.
+If the Engineer fails to certify in accordance with Sub-Clause 14.6 [ Issue of Interim
+Payment Certificates ] or the Employer fails to comply with Sub-Clause 2.4 [ Employer’s
+Financial Arrangements ] or Sub-Clause 14.7 [ Payment ], the Contractor may, after
+giving not less than 21 days’ notice to the Employer, suspend work (or reduce the rateof work) unless and until the Contractor has received the Payment Certificate,reasonable evidence or payment, as the case may be and as described in the notice.
+Notwithstanding the above, if the Bank has suspended disbursements under its loan,
+which finances in whole or in part the execution of the Works, and no alternative fundsare available as provided for in Sub-Clause 2.4 [ Employer’s Financial Arrangements ],
+the Contractor may by notice suspend work or reduce the rate of work at any time,but not less than 7 days after the Borrower having received the suspension notificationfrom the Bank.
+The Contractor’s action shall not prejudice his entitlements to financing charges under
+Sub-Clause 14.8 [ Delayed Payment ] and to termination under Sub-Clause 16.2
+[Termination by Contractor ].
+If the Contractor subsequently receives such Payment Certificate, evidence or
+payment (as described in the relevant Sub-Clause and in the above notice) beforegiving a notice of termination, the Contractor shall resume normal working as soon asis reasonably practicable.
+If the Contractor suffers delay and/or incurs Cost as a result of suspending work (or
+reducing the rate of work) in accordance with this Sub-Clause, the Contractor shallgive notice to the Engineer and shall be entitled subject to Sub-Clause 20.1[Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and16.1
+Contractor’s Entitlement to Suspend Work
+## 16 Suspension and Termination by Contractor
+## 54 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+(b) payment of any such Cost plus profit, which shall be included in the Contract
+Price.
+After receiving this notice, the Engineer shall proceed in accordance with Sub-Clause
+## 3 5 [Determinations ] to agree or determine these matters.
+The Contractor shall be entitled to terminate the Contract if:
+(a) the Contractor does not receive the reasonable evidence within 42 days after
+giving notice under Sub-Clause 16.1 [ Contractor’s Entitlement to Suspend
+Work] in respect of a failure to comply with Sub-Clause 2.4 [ Employer’s
+Financial Arrangements ],
+(b) the Engineer fails, within 56 days after receiving a Statement and supporting
+documents, to issue the relevant Payment Certificate,
+(c) the Contractor does not receive the amount due under an Interim Payment
+Certificate within 42 days after the expiry of the time stated in Sub-Clause 14.7[Payment ] within which payment is to be made (except for deductions in
+accordance with Sub-Clause 2.5 [ Employer’s Claims ]),
+(d) the Employer substantially fails to perform his obligations under the Contract in
+such manner as to materially and adversely affect the ability of the Contractorto perform the Contract,
+(e) the Employer fails to comply with Sub-Clause 1.6 [ Contract Agreement ] or
+Sub-Clause 1.7 [ Assignment ],
+(f) a prolonged suspension affects the whole of the Works as described in Sub-
+Clause 8.11 [ Prolonged Suspension ], or
+(g) the Employer becomes bankrupt or insolvent, goes into liquidation, has a
+receiving or administration order made against him, compounds with hiscreditors, or carries on business under a receiver, trustee or manager for thebenefit of his creditors, or if any act is done or event occurs which (underapplicable Laws) has a similar effect to any of these acts or events.
+(h) In the event the Bank suspends the loan or credit from which part of the
+payments to the Contractor are being made, if the Contractor has not receivedthe sums due to him upon expiration of the 14 days referred to in Sub-Clause14.7 for payments under Interim Payment certificates, the Contractor may,without prejudice to the Contractor’s entitlement to financing charges underSub-Clause 14.8, immediately take one or both of the following actions, namely(i) suspend work or reduce the rate of work, and (ii) terminate his employmentunder the Contract by giving notice to the Employer, with a copy to theEngineer, such termination to take effect 14 days after the giving of the notice.
+In any of these events or circumstances, the Contractor may, upon giving 14 days’
+notice to the Employer, terminate the Contract. However, in the case of sub-paragraph (f) or (g), the Contractor may by notice terminate the Contract immediately.
+The Contractor’s election to terminate the Contract shall not prejudice any other rights
+of the Contractor, under the Contract or otherwise.
+After a notice of termination under Sub-Clause 15.5 [ Employer’s Entitlement to
+Termination ], Sub-Clause 16.2 [ Termination by Contractor ] or Sub-Clause 19.6
+[Optional Termination, Payment and Release ] has taken effect, the Contractor shall
+promptly:
+(a) cease all further work, except for such work as may have been instructed by
+the Engineer for the protection of life or property or for the safety of the Works,16.2
+Termination by 
+Contractor
+## 16 3
+Cessation of Work and 
+Removal of Contractor’s Equipment
+(b) hand over Contractor’s Documents, Plant, Materials and other work, for which
+the Contractor has received payment, and
+(c) remove all other Goods from the Site, except as necessary for safety, and leave
+the Site.
+After a notice of termination under Sub-Clause 16.2 [ Termination by Contractor ] has
+taken effect, the Employer shall promptly:
+(a) return the Performance Security to the Contractor,
+(b) pay the Contractor in accordance with Sub-Clause 19.6 [ Optional Termination,
+Payment and Release ], and
+(c) pay to the Contractor the amount of any loss or damage sustained by the
+Contractor as a result of this termination.
+The Contractor shall indemnify and hold harmless the Employer, the Employer’sPersonnel, and their respective agents, against and from all claims, damages, lossesand expenses (including legal fees and expenses) in respect of:
+(a) bodily injury, sickness, disease or death, of any person whatsoever arising out
+of or in the course of or by reason of the Contractor’s design (if any), theexecution and completion of the Works and the remedying of any defects,unless attributable to any negligence, wilful act or breach of the Contract by theEmployer, the Employer’s Personnel, or any of their respective agents, and
+(b) damage to or loss of any property, real or personal (other than the Works), to
+the extent that such damage or loss arises out of or in the course of or byreason of the Contractor’s design (if any), the execution and completion of theWorks and the remedying of any defects, unless and to the extent that anysuch damage or loss is attributable to any negligence, wilful act or breach ofthe Contract by the Employer, the Employer’s Personnel,, their respectiveagents, or anyone directly or indirectly employed by any of them.
+The Employer shall indemnify and hold harmless the Contractor, the Contractor’s
+Personnel, and their respective agents, against and from all claims, damages, lossesand expenses (including legal fees and expenses) in respect of  (1) bodily injury,sickness, disease or death, which is attributable to any negligence, wilful act or breachof the Contract by the Employer, the Employer’s Personnel, or any of their respectiveagents, and (2) the matters for which liability may be excluded from insurance cover,as described in sub-paragraphs (d)(i), (ii) and (iii) of Sub-Clause 18.3 [ Insurance
+Against Injury to Persons and Damage to Property ].
+The Contractor shall take full responsibility for the care of the Works and Goods from the
+Commencement Date until the Taking-Over Certificate is issued (or is deemed to beissued under Sub-Clause 10.1 [ Taking Over of the Works and Sections ]) for the Works,
+when responsibility for the care of the Works shall pass to the Employer. If a Taking-OverCertificate is issued (or is so deemed to be issued) for any Section or part of the Works,responsibility for the care of the Section or part shall then pass to the Employer.
+After responsibility has accordingly passed to the Employer, the Contractor shall take
+responsibility for the care of any work which is outstanding on the date stated in a16.4
+Payment on Termination
+## 17 1
+Indemnities
+## 17 2
+Contractor’s Care
+of the Works17Risk and Responsibility
+## 56 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+Taking-Over Certificate, until this outstanding work has been completed.
+If any loss or damage happens to the Works, Goods or Contractor’s Documents
+during the period when the Contractor is responsible for their care, from any causenot listed in Sub-Clause 17.3 [ Employer’s Risks ], the Contractor shall rectify the loss
+or damage at the Contractor’s risk and cost, so that the Works, Goods andContractor’s Documents conform with the Contract.
+The Contractor shall be liable for any loss or damage caused by any actions
+performed by the Contractor after a Taking-Over Certificate has been issued. TheContractor shall also be liable for any loss or damage which occurs after a Taking-Over Certificate has been issued and which arose from a previous event for which theContractor was liable.
+The risks referred to in Sub-Clause 17.4 below, insofar as they directly affect the
+execution of the Works in the Country, are:
+(a) war, hostilities (whether war be declared or not), invasion, act of foreign
+enemies,
+(b) rebellion, terrorism, sabotage by persons other than the Contractor’s
+Personnel, revolution, insurrection, military or usurped power, or civil war, withinthe Country,
+(c) riot, commotion or disorder within the Country by persons other than the
+Contractor’s Personnel,
+(d) munitions of war, explosive materials, ionising radiation or contamination by
+radio-activity, within the Country, except as may be attributable to theContractor’s use of such munitions, explosives, radiation or radio-activity,
+(e) pressure waves caused by aircraft or other aerial devices travelling at sonic or
+supersonic speeds,
+(f) use or occupation by the Employer of any part of the Permanent Works, except
+as may be specified in the Contract,
+(g) design of any part of the Works by the Employer’s Personnel or by others for
+whom the Employer is responsible, and
+(h) any operation of the forces of nature which is Unforeseeable or against which
+an experienced contractor could not reasonably have been expected to havetaken adequate preventative precautions.
+If and to the extent that any of the risks listed in Sub-Clause 17.3 above results in loss
+or damage to the Works, Goods or Contractor’s Documents, the Contractor shallpromptly give notice to the Engineer and shall rectify this loss or damage to the extentrequired by the Engineer.
+If the Contractor suffers delay and/or incurs Cost from rectifying this loss or damage,
+the Contractor shall give a further notice to the Engineer and shall be entitled subjectto Sub-Clause 20.1 [ Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) payment of any such Cost, which shall be included in the Contract Price. In the
+case of sub-paragraphs (f) and (g) of Sub-Clause 17.3 [ Employer’s Risks ], Cost
+plus profit shall be payable.
+After receiving this further notice, the Engineer shall proceed in accordance with Sub-
+Clause 3.5 [ Determinations ] to agree or determine these matters.17.3
+Employer’s Risks
+## 17 4Consequences of
+Employer’s Risks
+In this Sub-Clause, “infringement” means an infringement (or alleged infringement) of
+any patent, registered design, copyright, trade mark, trade name, trade secret or otherintellectual or industrial property right relating to the Works; and “claim” means a claim(or proceedings pursuing a claim) alleging an infringement.
+Whenever a Party does not give notice to the other Party of any claim within 28 days
+of receiving the claim, the first Party shall be deemed to have waived any right toindemnity under this Sub-Clause.
+The Employer shall indemnify and hold the Contractor harmless against and from any
+claim alleging an infringement which is or was:
+(a) an unavoidable result of the Contractor’s compliance with the Contract, or
+(b) a result of any Works being used by the Employer:
+(i) for a purpose other than that indicated by, or reasonably to be inferred
+from, the Contract, or
+(ii) in conjunction with any thing not supplied by the Contractor, unless such
+use was disclosed to the Contractor prior to the Base Date or is statedin the Contract.
+The Contractor shall indemnify and hold the Employer harmless against and from any
+other claim which arises out of or in relation to (i) the manufacture, use, sale or importof any Goods, or (ii) any design for which the Contractor is responsible.
+If a Party is entitled to be indemnified under this Sub-Clause, the indemnifying Party
+may (at its cost) conduct negotiations for the settlement of the claim, and any litigationor arbitration which may arise from it. The other Party shall, at the request and cost ofthe indemnifying Party, assist in contesting the claim. This other Party (and itsPersonnel) shall not make any admission which might be prejudicial to theindemnifying Party, unless the indemnifying Party failed to take over the conduct of anynegotiations, litigation or arbitration upon being requested to do so by such otherParty.
+Neither Party shall be liable to the other Party for loss of use of any Works, loss of
+profit, loss of any contract or for any indirect or consequential loss or damage whichmay be suffered by the other Party in connection with the Contract, provided that thisexclusion shall not apply to any obligation of the Contractor to pay Delay Damages tothe Employer under Sub-Clause 8.7 [ Delay Damages ].
+The total liability of the Contractor to the Employer, under or in connection with the
+Contract other than under Sub-Clause 4.19 [ Electricity, Water and Gas ], Sub-Clause
+## 4 20 [ Employer’s Equipment and Free-Issue Material ], Sub-Clause 17.1 [ Indemnities ]
+and Sub-Clause 17.5 [ Intellectual and Industrial Property Rights ], shall not exceed the
+sum resulting from the application of a multiplier (less or greater than one) to theAccepted Contract Amount, as stated in the Contract Data, or (if such multiplier orother sum is not so stated), the Accepted Contract Amount.
+This Sub-Clause shall not limit liability in any case of fraud, deliberate default or
+reckless misconduct by the defaulting Party.
+The Contractor shall take full responsibility for the care of the Employer provided
+accommodation and facilities, if any, as detailed in the Specification, from therespective dates of hand-over to the Contractor until cessation of occupation (where17.5
+Intellectual and Industrial Property Rights
+## 17 6
+Limitation of Liability
+## 17 7Use of Employer’s
+Accommodation/Facilities
+## 58 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+hand-over or cessation of occupation may take place after the date stated in the
+Taking-Over Certificate for the Works).
+If any loss or damage happens to any of the above items while the Contractor is
+responsible for their care arising from any cause whatsoever other than those forwhich the Employer is liable, the Contractor shall, at his own cost, rectify the loss ordamage to the satisfaction of the Engineer.
+In this Clause, “insuring Party” means, for each type of insurance, the Party responsiblefor effecting and maintaining the insurance specified in the relevant Sub-Clause.
+Wherever the Contractor is the insuring Party, each insurance shall be effected with
+insurers and in terms approved by the Employer. These terms shall be consistent withany terms agreed by both Parties before the date of the Letter of Acceptance. Thisagreement of terms shall take precedence over the provisions of this Clause.
+Wherever the Employer is the insuring Party, each insurance shall be effected with
+insurers and in terms consistent with the details annexed to the Particular Conditions.
+If a policy is required to indemnify joint insured, the cover shall apply separately to
+each insured as though a separate policy had been issued for each of the jointinsured. If a policy indemnifies additional joint insured, namely in addition to theinsured specified in this Clause, (i) the Contractor shall act under the policy on behalfof these additional joint insured except that the Employer shall act for Employer’sPersonnel, (ii) additional joint insured shall not be entitled to receive payments directlyfrom the insurer or to have any other direct dealings with the insurer, and (iii) theinsuring Party shall require all additional joint insured to comply with the conditionsstipulated in the policy.
+Each policy insuring against loss or damage shall provide for payments to be made in
+the currencies required to rectify the loss or damage. Payments received from insurersshall be used for the rectification of the loss or damage.
+The relevant insuring Party shall, within the respective periods stated in the Contract
+Data (calculated from the Commencement Date), submit to the other Party:
+(a) evidence that the insurances described in this Clause have been effected, and
+(b) copies of the policies for the insurances described in Sub-Clause 18.2
+[Insurance for Works and Contractor’s Equipment ] and Sub-Clause 18.3
+[Insurance against Injury to Persons and Damage to Property ].
+When each premium is paid, the insuring Party shall submit evidence of payment to
+the other Party. Whenever evidence or policies are submitted, the insuring Party shallalso give notice to the Engineer.
+Each Party shall comply with the conditions stipulated in each of the insurance
+policies. The insuring Party shall keep the insurers informed of any relevant changesto the execution of the Works and ensure that insurance is maintained in accordancewith this Clause.
+Neither Party shall make any material alteration to the terms of any insurance without the18.1
+General Requirementsfor Insurances
+## 18 Insurance
+prior approval of the other Party. If an insurer makes (or attempts to make) any alteration,
+the Party first notified by the insurer shall promptly give notice to the other Party.
+If the insuring Party fails to effect and keep in force any of the insurances it is required
+to effect and maintain under the Contract, or fails to provide satisfactory evidence andcopies of policies in accordance with this Sub-Clause, the other Party may (at its optionand without prejudice to any other right or remedy) effect insurance for the relevantcoverage and pay the premiums due. The insuring Party shall pay the amount of thesepremiums to the other Party, and the Contract Price shall be adjusted accordingly.
+Nothing in this Clause limits the obligations, liabilities or responsibilities of the
+Contractor or the Employer, under the other terms of the Contract or otherwise. Anyamounts not insured or not recovered from the insurers shall be borne by theContractor and/or the Employer in accordance with these obligations, liabilities orresponsibilities. However, if the insuring Party fails to effect and keep in force aninsurance which is available and which it is required to effect and maintain under theContract, and the other Party neither approves the omission nor effects insurance forthe coverage relevant to this default, any moneys which should have been recoverableunder this insurance shall be paid by the insuring Party. 
+Payments by one Party to the other Party shall be subject to Sub-Clause 2.5
+[Employer’s Claims ] or Sub-Clause 20.1 [ Contractor’s Claims ], as applicable.
+The Contractor shall be entitled to place all insurance relating to the Contract
+(including, but not limited to the insurance referred to Clause 18) with insurers fromany eligible source country.
+The insuring Party shall insure the Works, Plant, Materials and Contractor’s
+Documents for not less than the full reinstatement cost including the costs ofdemolition, removal of debris and professional fees and profit. This insurance shall beeffective from the date by which the evidence is to be submitted under sub-paragraph(a) of Sub-Clause 18.1 [ General Requirements for Insurances ], until the date of issue
+of the Taking-Over Certificate for the Works.
+The insuring Party shall maintain this insurance to provide cover until the date of issue
+of the Performance Certificate, for loss or damage for which the Contractor is liablearising from a cause occurring prior to the issue of the Taking-Over Certificate, and forloss or damage caused by the Contractor in the course of any other operations(including those under Clause 11 [ Defects Liability ]).
+The insuring Party shall insure the Contractor’s Equipment for not less than the full
+replacement value, including delivery to Site. For each item of Contractor’s Equipment,the insurance shall be effective while it is being transported to the Site and until it isno longer required as Contractor’s Equipment.
+Unless otherwise stated in the Particular Conditions, insurances under this Sub-Clause:(a) shall be effected and maintained by the Contractor as insuring Party,
+(b) shall be in the joint names of the Parties, who shall be jointly entitled to receive
+payments from the insurers, payments being held or allocated between theParties for the sole purpose of rectifying the loss or damage,
+(c) shall cover all loss and damage from any cause not listed in Sub-Clause 17.3
+[Employer’s Risks ],
+(d) shall also cover loss or damage to a part of the Works which is attributable to
+the use or occupation by the Employer of another part of the Works, and loss18.2
+Insurance for Works and 
+Contractor’s Equipment
+## 60 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+or damage from the risks listed in sub-paragraphs (c), (g) and (h) of Sub-Clause
+## 17 3 [ Employer’s Risks ], excluding (in each case) risks which are not insurable
+at commercially reasonable terms, with deductibles per occurrence of not morethan the amount stated in the Contract Data (if an amount is not so stated, thissub-paragraph (d) shall not apply), and
+(e) may however exclude loss of, damage to, and reinstatement of:
+(i) a part of the Works which is in a defective condition due to a defect in
+its design, materials or workmanship (but cover shall include any otherparts which are lost or damaged as a direct result of this defectivecondition and not as described in sub-paragraph (ii) below),
+(ii) a part of the Works which is lost or damaged in order to reinstate any
+other part of the Works if this other part is in a defective condition due toa defect in its design, materials or workmanship,
+(iii) a part of the Works which has been taken over by the Employer, except
+to the extent that the Contractor is liable for the loss or damage, and
+(iv) Goods while they are not in the Country, subject to Sub-Clause 14.5
+[Plant and Materials intended for the Works ]. 
+If, more than one year after the Base Date, the cover described in sub-paragraph (d)
+above ceases to be available at commercially reasonable terms, the Contractor shall(as insuring Party) give notice to the Employer, with supporting particulars. TheEmployer shall then (i) be entitled subject to Sub-Clause 2.5 [ Employer’s Claims ] to
+payment of an amount equivalent to such commercially reasonable terms as theContractor should have expected to have paid for such cover, and (ii) be deemed,unless he obtains the cover at commercially reasonable terms, to have approved theomission under Sub-Clause 18.1 [ General Requirements for Insurances ].
+The insuring Party shall insure against each Party’s liability for any loss, damage, death
+or bodily injury which may occur to any physical property (except things insured underSub-Clause 18.2 [ Insurance for Works and Contractor’s Equipment ]) or to any person
+(except persons insured under Sub-Clause 18.4 [ Insurance for Contractor’s
+Personnel ]), which may arise out of the Contractor’s performance of the Contract and
+occurring before the issue of the Performance Certificate.
+This insurance shall be for a limit per occurrence of not less than the amount stated
+in the Contract Data, with no limit on the number of occurrences. If an amount is notstated in the Contract Data, this Sub-Clause shall not apply.
+Unless otherwise stated in the Particular Conditions, the insurances specified in this
+Sub-Clause:
+(a) shall be effected and maintained by the Contractor as insuring Party,
+(b) shall be in the joint names of the Parties,(c) shall be extended to cover liability for all loss and damage to the Employer’s
+property (except things insured under Sub-Clause 18.2) arising out of theContractor’s performance of the Contract, and
+(d) may however exclude liability to the extent that it arises from:
+(i) the Employer’s right to have the Permanent Works executed on, over, under,
+in or through any land, and to occupy this land for the Permanent Works,
+(ii) damage which is an unavoidable result of the Contractor’s obligations to
+execute the Works and remedy any defects, and
+(iii) a cause listed in Sub-Clause 17.3 [ Employer’s Risks ], except to the
+extent that cover is available at commercially reasonable terms.18.3
+Insurance against Injury 
+to Persons and Damageto Property
+The Contractor shall effect and maintain insurance against liability for claims,
+damages, losses and expenses (including legal fees and expenses) arising from injury,sickness, disease or death of any person employed by the Contractor or any other ofthe Contractor’s Personnel.
+The Employer and the Engineer shall also be indemnified under the policy of
+insurance, except that this insurance may exclude losses and claims to the extent thatthey arise from any act or neglect of the Employer or of the Employer’s Personnel.
+The insurance shall be maintained in full force and effect during the whole time that
+these personnel are assisting in the execution of the Works. For a Subcontractor’semployees, the insurance may be effected by the Subcontractor, but the Contractorshall be responsible for compliance with this Clause.
+In this Clause, “Force Majeure” means an exceptional event or circumstance:
+(a) which is beyond a Party’s control,
+(b) which such Party could not reasonably have provided against before entering
+into the Contract,
+(c) which, having arisen, such Party could not reasonably have avoided or
+overcome, and
+(d) which is not substantially attributable to the other Party.
+Force Majeure may include, but is not limited to, exceptional events or circumstances
+of the kind listed below, so long as conditions (a) to (d) above are satisfied:
+(i) war, hostilities (whether war be declared or not), invasion, act of foreign
+enemies,
+(ii) rebellion, terrorism, sabotage by persons other than the Contractor’s
+Personnel, revolution, insurrection, military or usurped power, or civil war,
+(iii) riot, commotion, disorder, strike or lockout by persons other than the
+Contractor’s Personnel,
+(iv) munitions of war, explosive materials, ionising radiation or contamination
+by radio-activity, except as may be attributable to the Contractor’s use ofsuch munitions, explosives, radiation or radio-activity, and
+(v) natural catastrophes such as earthquake, hurricane, typhoon or volcanic
+activity.
+If a Party is or will be prevented from performing its substantial obligations under the
+Contract by Force Majeure, then it shall give notice to the other Party of the event orcircumstances constituting the Force Majeure and shall specify the obligations, theperformance of which is or will be prevented. The notice shall be given within 14 daysafter the Party became aware, or should have become aware, of the relevant event orcircumstance constituting Force Majeure.
+The Party shall, having given notice, be excused performance of its obligations for so
+long as such Force Majeure prevents it from performing them.
+Notwithstanding any other provision of this Clause, Force Majeure shall not apply to
+obligations of either Party to make payments to the other Party under the Contract.18.4
+Insurance forContractor’s Personnel
+## 19 1
+Definition of Force Majeure
+## 19 2
+Notice of Force Majeure19Force Majeure
+## 62 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+Each Party shall at all times use all reasonable endeavours to minimise any delay in
+the performance of the Contract as a result of Force Majeure.
+A Party shall give notice to the other Party when it ceases to be affected by the Force
+Majeure.
+If the Contractor is prevented from performing his substantial obligations under the
+Contract by Force Majeure of which notice has been given under Sub-Clause 19.2[Notice of Force Majeure ], and suffers delay and/or incurs Cost by reason of such
+Force Majeure, the Contractor shall be entitled subject to Sub-Clause 20.1[Contractor’s Claims ] to:
+(a) an extension of time for any such delay, if completion is or will be delayed,
+under Sub-Clause 8.4 [ Extension of Time for Completion ], and
+(b) if the event or circumstance is of the kind described in sub-paragraphs (i) to (iv)
+of Sub-Clause 19.1 [ Definition of Force Majeure ] and, in the case of sub-
+paragraphs (ii) to (iv), occurs in the Country, payment of any such Cost.
+After receiving this notice, the Engineer shall proceed in accordance with Sub-Clause
+## 3 5 [Determinations ] to agree or determine these matters.
+If any Subcontractor is entitled under any contract or agreement relating to the Works
+to relief from force majeure on terms additional to or broader than those specified inthis Clause, such additional or broader force majeure events or circumstances shallnot excuse the Contractor’s non-performance or entitle him to relief under this Clause.
+If the execution of substantially all the Works in progress is prevented for a continuous
+period of 84 days by reason of Force Majeure of which notice has been given underSub-Clause 19.2 [ Notice of Force Majeure ], or for multiple periods which total more
+than 140 days due to the same notified Force Majeure, then either Party may give tothe other Party a notice of termination of the Contract. In this event, the terminationshall take effect 7 days after the notice is given, and the Contractor shall proceed inaccordance with Sub-Clause 16.3 [ Cessation of Work and Removal of Contractor’s
+Equipment ].
+Upon such termination, the Engineer shall determine the value of the work done and
+issue a Payment Certificate which shall include:
+(a) the amounts payable for any work carried out for which a price is stated in the
+Contract;
+(b) the Cost of Plant and Materials ordered for the Works which have been
+delivered to the Contractor, or of which the Contractor is liable to acceptdelivery: this Plant and Materials shall become the property of (and be at therisk of) the Employer when paid for by the Employer, and the Contractor shallplace the same at the Employer’s disposal;
+(c) other Costs or liabilities which in the circumstances were reasonably and
+necessarily incurred by the Contractor in the expectation of completing theWorks;
+(d) the Cost of removal of Temporary Works and Contractor’s Equipment from the
+Site and the return of these items to the Contractor’s works in his country (orto any other destination at no greater cost); and
+(e) the Cost of repatriation of the Contractor’s staff and labour employed wholly in
+connection with the Works at the date of termination.19.3
+Duty to Minimise Delay
+## 19 4
+Consequences of Force
+Majeure
+## 19 5
+Force Majeure Affecting 
+Subcontractor
+## 19 6
+Optional Termination, 
+Payment and Release
+Notwithstanding any other provision of this Clause, if any event or circumstance
+outside the control of the Parties (including, but not limited to, Force Majeure) ariseswhich makes it impossible or unlawful for either or both Parties to fulfil its or theircontractual obligations or which, under the law governing the Contract, entitles theParties to be released from further performance of the Contract, then upon notice byeither Party to the other Party of such event or circumstance:
+(a) the Parties shall be discharged from further performance, without prejudice to
+the rights of either Party in respect of any previous breach of the Contract, and
+(b) the sum payable by the Employer to the Contractor shall be the same as would
+have been payable under Sub-Clause 19.6 [ Optional Termination, Payment
+and Release ] if the Contract had been terminated under Sub-Clause 19.6.
+If the Contractor considers himself to be entitled to any extension of the Time for
+Completion and/or any additional payment, under any Clause of these Conditionsor otherwise in connection with the Contract, the Contractor shall give notice to theEngineer, describing the event or circumstance giving rise to the claim. The noticeshall be given as soon as practicable, and not later than 28 days after theContractor became aware, or should have become aware, of the event orcircumstance.
+If the Contractor fails to give notice of a claim within such period of 28 days, the Time
+for Completion shall not be extended, the Contractor shall not be entitled to additionalpayment, and the Employer shall be discharged from all liability in connection with theclaim. Otherwise, the following provisions of this Sub-Clause shall apply.
+The Contractor shall also submit any other notices which are required by the Contract,
+and supporting particulars for the claim, all as relevant to such event or circumstance.
+The Contractor shall keep such contemporary records as may be necessary to
+substantiate any claim, either on the Site or at another location acceptable to theEngineer. Without admitting the Employer’s liability, the Engineer may, after receivingany notice under this Sub-Clause, monitor the record-keeping and/or instruct theContractor to keep further contemporary records. The Contractor shall permit theEngineer to inspect all these records, and shall (if instructed) submit copies to theEngineer.
+Within 42 days after the Contractor became aware (or should have become aware) of
+the event or circumstance giving rise to the claim, or within such other period as maybe proposed by the Contractor and approved by the Engineer, the Contractor shallsend to the Engineer a fully detailed claim which includes full supporting particulars ofthe basis of the claim and of the extension of time and/or additional payment claimed.If the event or circumstance giving rise to the claim has a continuing effect:
+(a) this fully detailed claim shall be considered as interim;
+(b) the Contractor shall send further interim claims at monthly intervals, giving the
+accumulated delay and/or amount claimed, and such further particulars as theEngineer may reasonably require; and
+(c) the Contractor shall send a final claim within 28 days after the end of the effects
+resulting from the event or circumstance, or within such other period as may beproposed by the Contractor and approved by the Engineer.19.7
+Release fromPerformance
+## 20 1
+Contractor’s Claims
+## 20 Claims, Disputes and Arbitration
+## 64 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+Within 42 days after receiving a claim or any further particulars supporting a previous
+claim, or within such other period as may be proposed by the Engineer and approvedby the Contractor, the Engineer shall respond with approval, or with disapproval anddetailed comments. He may also request any necessary further particulars, but shallnevertheless give his response on the principles of the claim within such time.
+Each Payment Certificate shall include such amounts for any claim as have been
+reasonably substantiated as due under the relevant provision of the Contract. Unlessand until the particulars supplied are sufficient to substantiate the whole of the claim,the Contractor shall only be entitled to payment for such part of the claim as he hasbeen able to substantiate.
+The Engineer shall proceed in accordance with Sub-Clause 3.5 [ Determinations ] to
+agree or determine (i) the extension (if any) of the Time for Completion (before or afterits expiry) in accordance with Sub-Clause 8.4 [ Extension of Time for Completion ],
+and/or (ii) the additional payment (if any) to which the Contractor is entitled under theContract.
+The requirements of this Sub-Clause are in addition to those of any other Sub-Clause
+which may apply to a claim. If the Contractor fails to comply with this or another Sub-Clause in relation to any claim, any extension of time and/or additional payment shalltake account of the extent (if any) to which the failure has prevented or prejudicedproper investigation of the claim, unless the claim is excluded under the secondparagraph of this Sub-Clause.
+Disputes shall be referred to a DB for decision in accordance with Sub-Clause 20.4
+[Obtaining Dispute Board’s Decision ]. The Parties shall appoint a DB by the date
+stated in the Contract Data.
+The DB shall comprise, as stated in the Contract Data, either one or three suitably
+qualified persons (“the members”), each of whom shall be fluent in the language forcommunication defined in the Contract and shall be a professional experienced in thetype of construction involved in the Works and with the interpretation of contractualdocuments. If the number is not so stated and the Parties do not agree otherwise, theDB shall comprise three persons, one of whom shall serve as chairman.
+If the Parties have not jointly appointed the DB 21 days before the date stated in the
+Contract Data and the DB is to comprise three persons, each Party shall nominateone member for the approval of the other Party. The first two members shallrecommend and the Parties shall agree upon the third member, who shall act aschairman.
+The agreement between the Parties and either the sole member or each of the three
+members shall incorporate by reference the General Conditions of Dispute BoardAgreement contained in the Appendix to these General Conditions, with suchamendments as are agreed between them.
+The terms of the remuneration of either the sole member or each of the three
+members, including the remuneration of any expert whom the DB consults, shall bemutually agreed upon by the Parties when agreeing the terms of appointment of themember or such expert (as the case may be). Each Party shall be responsible forpaying one-half of this remuneration.
+If a member declines to act or is unable to act as a result of death, disability,
+resignation or termination of appointment, a replacement shall be appointed in the20.2
+Appointment of the 
+Dispute Board
+same manner as the replaced person was required to have been nominated or agreed
+upon, as described in this Sub-Clause.
+The appointment of any member may be terminated by mutual agreement of both
+Parties, but not by the Employer or the Contractor acting alone. Unless otherwiseagreed by both Parties, the appointment of the DB (including each member) shallexpire when the discharge referred to in Sub-Clause 14.12 [ Discharge ] shall have
+become effective.
+If any of the following conditions apply, namely:
+(a) the Parties fail to agree upon the appointment of the sole member of the DB by
+the date stated in the first paragraph of Sub-Clause 20.2 [ Appointment of the
+Dispute Board ],
+(b) either Party fails to nominate a member (for approval by the other Party) or fails
+to approve a member nominated by the other Party, of a DB of three personsby such date,
+(c) the Parties fail to agree upon the appointment of the third member (to act as
+chairman) of the DB by such date, or
+(d) the Parties fail to agree upon the appointment of a replacement person within
+## 42 days after the date on which the sole member or one of the three membersdeclines to act or is unable to act as a result of death, disability, resignation ortermination of appointment,
+then the appointing entity or official named in the Contract Data shall, upon the
+request of either or both of the Parties and after due consultation with both Parties,appoint this member of the DB. This appointment shall be final and conclusive. EachParty shall be responsible for paying one-half of the remuneration of the appointingentity or official.
+If a dispute (of any kind whatsoever) arises between the Parties in connection with, or
+arising out of, the Contract or the execution of the Works, including any dispute as toany certificate, determination, instruction, opinion or valuation of the Engineer, eitherParty may refer the dispute in writing to the DB for its decision, with copies to the otherParty and the Engineer. Such reference shall state that it is given under this Sub-Clause.
+For a DB of three persons, the DB shall be deemed to have received such reference
+on the date when it is received by the chairman of the DB.
+Both Parties shall promptly make available to the DB all such additional information,
+further access to the Site, and appropriate facilities, as the DB may require for thepurposes of making a decision on such dispute. The DB shall be deemed to be notacting as arbitrator(s).
+Within 84 days after receiving such reference, or within such other period as may be
+proposed by the DB and approved by both Parties, the DB shall give its decision, whichshall be reasoned and shall state that it is given under this Sub-Clause. The decisionshall be binding on both Parties, who shall promptly give effect to it unless and until itshall be revised in an amicable settlement or an arbitral award as described below.Unless the Contract has already been abandoned, repudiated or terminated, theContractor shall continue to proceed with the Works in accordance with the Contract.
+If either Party is dissatisfied with the DB’s decision, then either Party may, within 28
+days after receiving the decision, give notice to the other Party of its dissatisfaction20.3
+Failure to Agree on the
+Composition of theDispute Board
+## 20 4
+Obtaining Dispute 
+Board’s Decision
+## 66 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+## 20 5
+Amicable
+Settlement
+## 20 6Arbitration
+## 20 7
+Failure to Comply with 
+Dispute Board’s Decisionand intention to commence arbitration. If the DB fails to give its decision within the
+period of 84 days (or as otherwise approved) after receiving such reference, theneither Party may, within 28 days after this period has expired, give notice to the otherParty of its dissatisfaction and intention to commence arbitration.
+In either event, this notice of dissatisfaction shall state that it is given under this Sub-
+Clause, and shall set out the matter in dispute and the reason(s) for dissatisfaction.Except as stated in Sub-Clause 20.7 [ Failure to Comply with Dispute Board’s
+Decision ] and Sub-Clause 20.8 [ Expiry of Dispute Board’s Appointment ], neither
+Party shall be entitled to commence arbitration of a dispute unless a notice ofdissatisfaction has been given in accordance with this Sub-Clause.
+If the DB has given its decision as to a matter in dispute to both Parties, and no notice
+of dissatisfaction has been given by either Party within 28 days after it received theDB’s decision, then the decision shall become final and binding upon both Parties.
+Where notice of dissatisfaction has been given under Sub-Clause 20.4 above, both
+Parties shall attempt to settle the dispute amicably before the commencement ofarbitration. However, unless both Parties agree otherwise, arbitration may becommenced on or after the fifty-sixth day after the day on which a notice ofdissatisfaction and intention to commence arbitration was given, even if no attempt atamicable settlement has been made.
+Unless settled amicably, any dispute in respect of which the DB’s decision (if any) has
+not become final and binding shall be finally settled by international arbitration. Unlessotherwise agreed by both Parties:
+(a) arbitration proceedings shall be conducted as stated in the Particular
+Conditions,
+(b) if no arbitration proceedings are so stated, the dispute shall be finally settled by
+institutional arbitration under the Rules of Arbitration of the InternationalChamber of Commerce,
+(c) the dispute shall be settled by three arbitrators, and(d) the arbitration shall be conducted in the language for communications defined
+in Sub-Clause 1.4 [ Law and Language ].
+The arbitrators shall have full power to open up, review and revise any certificate,
+determination, instruction, opinion or valuation of the Engineer, and any decision of theDB, relevant to the dispute. Nothing shall disqualify the Engineer from being called asa witness and giving evidence before the arbitrators on any matter whatsoeverrelevant to the dispute.
+Neither Party shall be limited in the proceedings before the arbitrators to the evidence
+or arguments previously put before the DB to obtain its decision, or to the reasons fordissatisfaction given in its notice of dissatisfaction. Any decision of the DB shall beadmissible in evidence in the arbitration.
+Arbitration may be commenced prior to or after completion of the Works. The
+obligations of the Parties, the Engineer and the DB shall not be altered by reason ofany arbitration being conducted during the progress of the Works.
+In the event that a Party fails to comply with a DB decision which has become final
+and binding, then the other Party may, without prejudice to any other rights it may
+have, refer the failure itself to arbitration under Sub-Clause 20.6 [ Arbitration ]. Sub-
+Clause 20.4 [ Obtaining Dispute Board’s Decision ] and Sub-Clause 20.5 [ Amicable
+Settlement ] shall not apply to this reference.
+If a dispute arises between the Parties in connection with, or arising out of, the
+Contract or the execution of the Works and there is no DB in place, whether by reasonof the expiry of the DB’s appointment or otherwise:
+(a) Sub-Clause 20.4 [ Obtaining Dispute Board’s Decision ] and Sub-Clause 20.5
+[Amicable Settlement ] shall not apply, and
+(b) the dispute may be referred directly to arbitration under Sub-Clause 20.6
+[Arbitration ].20.8
+Expiry of Dispute 
+Board’s Appointment
+## 68 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+APPENDIX
+General Conditions of Dispute Board Agreement
+Each “Dispute Board Agreement” is a tripartite agreement by and between:
+(a) the “Employer”;
+(b) the “Contractor”; and(c) the “Member” who is defined in the Dispute Board Agreement as being:
+(i) the sole member of the “DB” and, where this is the case, all references
+to the "Other Members” do not apply, or
+(ii) one of the three persons who are jointly called the “DB” (or “Dispute
+Board”) and, where this is the case, the other two persons are called the“Other Members”.
+The Employer and the Contractor have entered (or intend to enter) into a contract,
+which is called the “Contract” and is defined in the Dispute Board Agreement, whichincorporates this Appendix. In the Dispute Board Agreement, words and expressionswhich are not otherwise defined shall have the meanings assigned to them in theContract.
+Unless otherwise stated in the Dispute Board Agreement, it shall take effect on the
+latest of the following dates:
+(a) the Commencement Date defined in the Contract,
+(b) when the Employer, the Contractor and the Member have each signed the
+Dispute Board Agreement, or
+(c) when the Employer, the Contractor and each of the Other Members (if any)
+have respectively each signed a dispute board agreement.
+This employment of the Member is a personal appointment. At any time, the Member
+may give not less than 70 days’ notice of resignation to the Employer and to theContractor, and the Dispute Agreement shall terminate upon the expiry of this period.
+The Member warrants and agrees that he/she is and shall be impartial and
+independent of the Employer, the Contractor and the Engineer. The Member shallpromptly disclose, to each of them and to the Other Members (if any), any fact orcircumstance which might appear inconsistent with his/her warranty and agreementof impartiality and independence.
+When appointing the Member, the Employer and the Contractor relied upon the
+Member’s representations that he/she is:
+(a) experienced in the work which the Contractor is to carry out under the
+Contract,
+(b) experienced in the interpretation of contract documentation, and(c) fluent in the language for communications defined in the Contract.
+The Member shall:1
+Definitions
+# General Provisions
+## 3 Warranties
+## 4 General Obligations of
+the Member
+(a) have no interest financial or otherwise in the Employer, the Contractor or
+Engineer, nor any financial interest in the Contract except for payment under theDispute Board Agreement;
+(b) not previously have been employed as a consultant or otherwise by the
+Employer, the Contractor or the Engineer, except in such circumstances aswere disclosed in writing to the Employer and the Contractor before theysigned the Dispute Board Agreement;
+(c) have disclosed in writing to the Employer, the Contractor and the Other
+Members (if any), before entering into the Dispute Board Agreement and tohis/her best knowledge and recollection, any professional or personalrelationships with any director, officer or employee of the Employer, theContractor or the Engineer, and any previous involvement in the overall projectof which the Contract forms part;
+(d) not, for the duration of the Dispute Board Agreement, be employed as a
+consultant or otherwise by the Employer, the Contractor or the Engineer, exceptas may be agreed in writing by the Employer, the Contractor and the OtherMembers (if any);
+(e) comply with the annexed procedural rules and with Sub-Clause 20.4 of the
+Conditions of Contract;
+(f) not give advice to the Employer, the Contractor, the Employer’s Personnel or
+the Contractor’s Personnel concerning the conduct of the Contract, other thanin accordance with the annexed procedural rules;
+(g) not while a Member enter into discussions or make any agreement with the
+Employer, the Contractor or the Engineer regarding employment by any ofthem, whether as a consultant or otherwise, after ceasing to act under theDispute Board Agreement;
+(h) ensure his/her availability for all site visits and hearings as are necessary;(i) become conversant with the Contract and with the progress of the Works (and
+of any other parts of the project of which the Contract forms part) by studyingall documents received which shall be maintained in a current working file;
+(j) treat the details of the Contract and all the DB’s activities and hearings as
+private and confidential, and not publish or disclose them without the priorwritten consent of the Employer, the Contractor and the Other Members (if any);and
+(k) be available to give advice and opinions, on any matter relevant to the Contract
+when requested by both the Employer and the Contractor, subject to theagreement of the Other Members (if any).
+The Employer, the Contractor, the Employer’s Personnel and the Contractor’s
+Personnel shall not request advice from or consultation with the Member regarding theContract, otherwise than in the normal course of the DB’s activities under the Contractand the Dispute Board Agreement. The Employer and the Contractor shall beresponsible for compliance with this provision, by the Employer’s Personnel and theContractor’s Personnel respectively.
+The Employer and the Contractor undertake to each other and to the Member that
+the Member shall not, except as otherwise agreed in writing by the Employer, theContractor, the Member and the Other Members (if any):
+(a) be appointed as an arbitrator in any arbitration under the Contract;
+(b) be called as a witness to give evidence concerning any dispute before
+arbitrator(s) appointed for any arbitration under the Contract; or
+(c) be liable for any claims for anything done or omitted in the discharge or
+purported discharge of the Member’s functions, unless the act or omission isshown to have been in bad faith.
+General Obligations of 
+the Employer and the Contractor
+## 70 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+The Employer and the Contractor hereby jointly and severally indemnify and hold the
+Member harmless against and from claims from which he is relieved from liability underthe preceding paragraph.
+Whenever the Employer or the Contractor refers a dispute to the DB under Sub-
+Clause 20.4 of the Conditions of Contract, which will require the Member to make asite visit and attend a hearing, the Employer or the Contractor shall provideappropriate security for a sum equivalent to the reasonable expenses to be incurredby the Member. No account shall be taken of any other payments due or paid to theMember.
+The Member shall be paid as follows, in the currency named in the Dispute Board
+Agreement:
+(a) a retainer fee per calendar month, which shall be considered as payment in full
+for:
+(i) being available on 28 days’ notice for all site visits and hearings;
+(ii) becoming and remaining conversant with all project developments and
+maintaining relevant files;
+(iii) all office and overhead expenses including secretarial services,
+photocopying and office supplies incurred in connection with his duties;and
+(iv) all services performed hereunder except those referred to in sub-
+paragraphs (b) and (c) of this Clause.
+The retainer fee shall be paid with effect from the last day of the calendar month
+in which the Dispute Board Agreement becomes effective; until the last day ofthe calendar month in which the Taking-Over Certificate is issued for the wholeof the Works.
+With effect from the first day of the calendar month following the month in which
+the Taking-Over Certificate is issued for the whole of the Works, the retainer feeshall be reduced by one third. This reduced fee shall be paid until the first dayof the calendar month in which the Member resigns or the Dispute BoardAgreement is otherwise terminated.
+(b) a daily fee which shall be considered as payment in full for:
+(i) each day or part of a day up to a maximum of two days’ travel time in
+each direction for the journey between the Member’s home and the site,or another location of a meeting with the Other Members (if any);
+(ii) each working day on Site visits, hearings or preparing decisions; and(iii) each day spent reading submissions in preparation for a hearing.
+(c) all reasonable expenses including necessary travel expenses (air fare in less than
+first class, hotel and subsistence and other direct travel expenses) incurred inconnection with the Member’s duties, as well as the cost of telephone calls, couriercharges, faxes and telexes: a receipt shall be required for each item in excess offive percent of the daily fee referred to in sub-paragraph (b) of this Clause;
+(d) any taxes properly levied in the Country on payments made to the Member
+(unless a national or permanent resident of the Country) under this Clause 6.
+The retainer and daily fees shall be as specified in the Dispute Board Agreement.
+Unless it specifies otherwise, these fees shall remain fixed for the first 24 calendar6
+Payment
+months, and shall thereafter be adjusted by agreement between the Employer, the
+Contractor and the Member, at each anniversary of the date on which the DisputeBoard Agreement became effective.
+If the parties fail to agree on the retainer fee or the daily fee, the appointing entity or
+official named in the Contract Data shall determine the amount of the fees to beused.
+The Member shall submit invoices for payment of the monthly retainer and air fares
+quarterly in advance. Invoices for other expenses and for daily fees shall be submittedfollowing the conclusion of a site visit or hearing. All invoices shall be accompanied bya brief description of activities performed during the relevant period and shall beaddressed to the Contractor.
+The Contractor shall pay each of the Member’s invoices in full within 56 calendar days
+after receiving each invoice and shall apply to the Employer (in the Statements underthe Contract) for reimbursement of one-half of the amounts of these invoices. TheEmployer shall then pay the Contractor in accordance with the Contract.
+If the Contractor fails to pay to the Member the amount to which he/she is entitled
+under the Dispute Board Agreement, the Employer shall pay the amount due to theMember and any other amount which may be required to maintain the operation ofthe DB; and without prejudice to the Employer’s rights or remedies. In addition to allother rights arising from this default, the Employer shall be entitled to reimbursementof all sums paid in excess of one-half of these payments, plus all costs of recoveringthese sums and financing charges calculated at the rate specified in Sub-Clause 14.8of the Conditions of Contract.
+If the Member does not receive payment of the amount due within 70 days after
+submitting a valid invoice, the Member may (i) suspend his/her services (withoutnotice) until the payment is received, and/or (ii) resign his/her appointment by givingnotice under Clause 7.
+At any time: (i) the Employer and the Contractor may jointly terminate the Dispute
+Board Agreement by giving 42 days’ notice to the Member; or (ii) the Member mayresign as provided for in Clause 2.
+If the Member fails to comply with the Dispute Board Agreement, the Employer and
+the Contractor may, without prejudice to their other rights, terminate it by notice to theMember. The notice shall take effect when received by the Member.
+If the Employer or the Contractor fails to comply with the Dispute Board Agreement,
+the Member may, without prejudice to his other rights, terminate it by notice to theEmployer and the Contractor. The notice shall take effect when received by themboth.
+Any such notice, resignation and termination shall be final and binding on the
+Employer, the Contractor and the Member. However, a notice by the Employer or theContractor, but not by both, shall be of no effect.
+If the Member fails to comply with any of his obligations under Clause 4 (a) - (d) above,
+he shall not be entitled to any fees or expenses hereunder and shall, without prejudiceto their other rights, reimburse each of the Employer and the Contractor for any feesand expenses received by the Member and the Other Members (if any), for7
+Termination
+## 8 Default of the Member
+## 72 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+proceedings or decisions (if any) of the DB which are rendered void or ineffective by
+the said failure to comply.
+If the Member fails to comply with any of his obligations under Clause 4 (e) - (k) above,
+he shall not be entitled to any fees or expenses hereunder from the date and to theextent of the non-compliance and shall, without prejudice to their other rights,reimburse each of the Employer and the Contractor for any fees and expenses alreadyreceived by the Member, for proceedings or decisions (if any) of the DB which arerendered void or ineffective by the said failure to comply.
+Any dispute or claim arising out of or in connection with this Dispute Board
+Agreement, or the breach, termination or invalidity thereof, shall be finally settled byinstitutional arbitration. If no other arbitration institute is agreed, the arbitration shall beconducted under the Rules of Arbitration of the International Chamber of Commerceby one arbitrator appointed in accordance with these Rules of Arbitration.
+Disputes
+## 7 Unless otherwise agreed by the Employer and the Contractor, the DB shall visit the
+site at intervals of not more than 140 days, including times of critical constructionevents, at the request of either the Employer or the Contractor. Unless otherwiseagreed by the Employer, the Contractor and the DB, the period between consecutivevisits shall not be less than 70 days, except as required to convene a hearing asdescribed below.
+The timing of and agenda for each site visit shall be as agreed jointly by the DB, the
+Employer and the Contractor, or in the absence of agreement, shall be decided by theDB. The purpose of site visits is to enable the DB to become and remain acquaintedwith the progress of the Works and of any actual or potential problems or claims, and,as far as reasonable, to endeavour to prevent potential problems or claims frombecoming disputes.
+Site visits shall be attended by the Employer, the Contractor and the Engineer and
+shall be co-ordinated by the Employer in co-operation with the Contractor. TheEmployer shall ensure the provision of appropriate conference facilities and secretarialand copying services. At the conclusion of each site visit and before leaving the site,the DB shall prepare a report on its activities during the visit and shall send copies tothe Employer and the Contractor.
+The Employer and the Contractor shall furnish to the DB one copy of all documents
+which the DB may request, including Contract documents, progress reports, variationinstructions, certificates and other documents pertinent to the performance of theContract. All communications between the DB and the Employer or the Contractorshall be copied to the other Party. If the DB comprises three persons, the Employerand the Contractor shall send copies of these requested documents and thesecommunications to each of these persons.
+If any dispute is referred to the DB in accordance with Sub-Clause 20.4 of the
+Conditions of Contract, the DB shall proceed in accordance with Sub-Clause 20.4and these Rules. Subject to the time allowed to give notice of a decision and otherrelevant factors, the DB shall:
+(a) act fairly and impartially as between the Employer and the Contractor, giving
+each of them a reasonable opportunity of putting his case and responding tothe other’s case, and
+(b) adopt procedures suitable to the dispute, avoiding unnecessary delay or
+expense.
+The DB may conduct a hearing on the dispute, in which event it will decide on the date
+and place for the hearing and may request that written documentation and argumentsfrom the Employer and the Contractor be presented to it prior to or at the hearing.
+Except as otherwise agreed in writing by the Employer and the Contractor, the DB
+shall have power to adopt an inquisitorial procedure, to refuse admission to hearingsor audience at hearings to any persons other than representatives of the Employer, theContractor and the Engineer, and to proceed in the absence of any party who the DBis satisfied received notice of the hearing; but shall have discretion to decide whetherand to what extent this power may be exercised.Annex PROCEDURAL RULES
+## 74 © FIDIC 2005. MDB Harmonised Conditions of Contract for Construction - General Conditions.
+The Employer and the Contractor empower the DB, among other things, to:
+(a) establish the procedure to be applied in deciding a dispute,
+(b) decide upon the DB’s own jurisdiction, and as to the scope of any dispute
+referred to it,
+(c) conduct any hearing as it thinks fit, not being bound by any rules or procedures
+other than those contained in the Contract and these Rules,
+(d) take the initiative in ascertaining the facts and matters required for a decision,(e) make use of its own specialist knowledge, if any,(f) decide upon the payment of financing charges in accordance with the
+Contract,
+(g) decide upon any provisional relief such as interim or conservatory measures,
+and
+(h) open up, review and revise any certificate, decision, determination, instruction,
+opinion or valuation of the Engineer, relevant to the dispute.
+The DB shall not express any opinions during any hearing concerning the merits of
+any arguments advanced by the Parties. Thereafter, the DB shall make and give itsdecision in accordance with Sub-Clause 20.4, or as otherwise agreed by theEmployer and the Contractor in writing. If the DB comprises three persons:
+(a) it shall convene in private after a hearing, in order to have discussions and
+prepare its decision;
+(b) it shall endeavour to reach a unanimous decision: if this proves impossible the
+applicable decision shall be made by a majority of the Members, who mayrequire the minority Member to prepare a written report for submission to theEmployer and the Contractor; and
+(c) if a Member fails to attend a meeting or hearing, or to fulfil any required function,
+the other two Members may nevertheless proceed to make a decision, unless:
+(i) either the Employer or the Contractor does not agree that they do so, or
+(ii) the absent Member is the chairman and he/she instructs the other
+Members not to make a decision.8
