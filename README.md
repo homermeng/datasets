@@ -1,5 +1,9 @@
 # Folder structure
 
+
+<details>
+<summary>Click to expand/collapse folder structure</summary>
+
 root/
 ├── FIDIC-red-book/
 │   ├── red-book-mdb-harmonised-edition.pdf    # original file
@@ -15,3 +19,5 @@ root/
 │
 ├── LICENSE
 └── README.md
+
+</details>
