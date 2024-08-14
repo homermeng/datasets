@@ -4,6 +4,7 @@
 <details>
 <summary>Click to expand/collapse folder structure</summary>
 
+<pre>
 root/
 ├── FIDIC-red-book/
 │   ├── red-book-mdb-harmonised-edition.pdf    # original file
@@ -19,5 +20,6 @@ root/
 │
 ├── LICENSE
 └── README.md
+</pre>
 
 </details>
